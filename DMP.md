@@ -121,6 +121,60 @@ available to other nanosafety and nanoinformatics projects to reuse, and all
 updates will be announced widely to the relevant communities (including
 OpenRiskNet). 
 
+### Data set description
+
+### Data sharing
+
+### Archiving and preservation
+
+## Data summary
+
+### Purpose of the data collection/generation
+
+### Relation to the objectives of the project
+
+### Types and formats of data
+
+#### Types of Data
+
+#### Formats of Data
+
+### Reuse of data
+
+### Origin of the data
+
+### Expected size of the data
+
+### Utility of data and models
+
+## FAIR data
+
+### Making data findable, including provisions for metadata
+
+#### Making data discoverable, including provisions for metadata
+
+#### Identifiers and naming conventions
+
+### Making data openly accessible
+
+#### Open Data
+
+#### Free Access
+
+### Making data interoperable
+
+#### Supported data exchange formats
+
+### Increase data reuse (through clarifying licenses)
+
+## Allocation of resources
+
+## Data security
+
+## Ethical aspects
+
+## Final remarks
+
 ## References
 
 1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
@@ -130,3 +184,7 @@ OpenRiskNet).
 5. <a nane="ref5" />[https://creativecommons.org/share-your-work/licensing-types-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/)
 6. <a nane="ref6" />[https://www.biorxiv.org/content/early/2017/12/01/225490](https://www.biorxiv.org/content/early/2017/12/01/225490)
 7. <a nane="ref7" />Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. Nature Publishing Group; 2016;3: 160018.
+
+# Appendixes
+## Appendix A: RDM Copyright, License, and Waiver Clearance Form
+## Appendix B: NanoCommons Customized RDM Online Plan
