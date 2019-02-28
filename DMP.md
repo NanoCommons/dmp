@@ -125,11 +125,90 @@ OpenRiskNet).
 
 ### Data sharing
 
+According to the ORD Pilot programme, by default as much of the resulting data
+as possible should be archived as Open Access. Therefore legitimate reasons for
+not sharing resulting data should be explained in the DMP. However, data
+protection or IPR agreements should not be compromised in any way, and data
+sharing should be done responsibly. Therefore, the DMP describes any ethical or
+legal issues that can have an impact on data sharing.
+
 ### Archiving and preservation
+
+To ensure that publicly funded research outputs can have a positive impact on
+future research, for policy development, and for societal change it is important
+to assure the availability of data for a long period beyond the lifetime of the
+project. However, this does not refer only to storage in a research data repository,
+but also the need to consider the (re-)usability of the data. One of the main goals
+of the research infrastructure being created by the NanoCommons project is to
+harmonise nanosafety data and make it interoperable and sustainable, as a means
+to facilitate in silico nanosafety assessment thereby reducing the need for 
+costly and ethically questionable in vivo studies while supporting the route to 
+market of nano-enabled products. Therefore, the project has a special obligation
+to preserve both the software tools and any code produced to perform specific in
+silico analyses and the data underpinning these models and tools. This will also 
+require a high degree of clarity about any proprietary or open source tools that
+will be needed to validate and use the preserved data. The general ethos of 
+NanoCommons is that all datasets imported into the NanoCommons Knowledge Base 
+using funds provided by NanoCommons will be made both Open and FAIR. The agreement 
+with TA Users, previous projects who will provide datasets, and any other data 
+sources utilised in the delivery of the NanoCommons research infrastructure will 
+include specifications on the Open and FAIR provisions, as per Appendix A.
+
+The structure of the NanoCommons DMP follows the Horizon 2020 ORD Pilot 
+instructions on how to create a DMP. Therefore, additional to this document, 
+the plan is stored and updated online using the recommended DMP tool 
+(Figure 1) available at dmponline.dcc.ac.uk/ (see also Appendix B).
+
+**The NanoCommons Research Data Management Plan**
+The Data Management Plan (DMP) is essential to ensure the capture of 
+return-on-investment (RoI) for the resources put in by the European Union,
+via the EC’s H2020 research framework. An RDM strategy does not describe 
+the data, but it describes the processes of the management of the data 
+throughout its entire lifecycle.  The NanoCommons ethos is that Data 
+should be both FAIR and Open, and all our activities will expressly 
+utilising formats that support this. NanoCommons will build on the lessons 
+and experience from the NanoREG project, which utilised a General Assembly 
+meeting to decide on an open licence for specific outputs if the 
+Consortium Agreement did not specify the reuse conditions explicitly. 
+
+Before we continue, we should define to what kind of data this DMP 
+applies. Section 1.3 provides more detail of the types of data to be 
+imported into or generated within NanoCommons, but the starting point
+is basically any data produced in the NanoCommons project, which
+includes, but is not limited to, experimentally measured data and
+computed data via modelling or statistics, including that produced 
+by TA Users as part of their access provision.
 
 ## Data summary
 
 ### Purpose of the data collection/generation
+
+The data collected/generated within the NanoCommons Project aims to
+provide a harmonised and streamlined workflow covering all aspects 
+of the data lifecycle, which includes experimental planning, data 
+acquisition, manipulation and analysis, data storage and Open and 
+FAIR access when possible (for further information please refer to 
+Appendix B). The collected/generated data will be used to meet the 
+project’s objectives in developing and openly providing the in silico 
+nanosafety modelling and nanoinformatics tools needed by the 
+nanosafety scientific community for the production of high quality,
+harmonised and sustainable data. To achieve these objectives the 
+NanoCommons project aims to implement appropriate standardised 
+experimental procedures and data curation techniques, to promote 
+ontology harmonisation and produce datasets aligned with the highest
+standards of scientific quality within the project.
+
+Thus, the data collected/generated within NanoCommons will be available 
+in the correct format and readily available to be implemented and used 
+for analysis via the tools developed within the project. At the same 
+time, data harmonisation will allow data interoperability and the 
+combination of different datasets (from a range of sources, as long as 
+the conditions for data sharing are compatible with the needs of NanoCommons
+- see Appendix A for details), where applicable and following agreement of 
+the respective owners, that will allow more complex analyses to be performed 
+and can also promote cross-project/field cooperation and translational 
+research. 
+
 
 ### Relation to the objectives of the project
 
