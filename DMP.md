@@ -265,5 +265,46 @@ research.
 7. <a nane="ref7" />Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. Nature Publishing Group; 2016;3: 160018.
 
 # Appendixes
+
 ## Appendix A: RDM Copyright, License, and Waiver Clearance Form
+
+<table>
+  <tr>
+    <td width="50%">Who are the copyright owners (names + email addresses)?</td>
+    <td width="50%"></td>
+  </tr>
+  <tr>
+    <td>Under what conditions will the data be available to the consortium?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Under what conditions will the data be available to the rest of the world?</td>
+    <td></td>
+  </tr>
+</table>
+
+The NanoCommons RDM Copyright, License, and Waiver (CLW) Clearance Form will be used
+in cases where data needs to be transferred, stored and analysed through the 
+NanoCommons infrastructure via the project’s TA’s. In such cases NanoCommons will 
+establish a minimum set of requirements for the data to be applicable to be included 
+to the infrastructure, which are based on the FAIR data principles.
+
+If a CC license is or was used, then it suffices to list the name of the license. In 
+that case, the answer to the second and third question may, in fact, be the same. In 
+any other case, data providers will have to agree to the NanoCommons terms and 
+conditions regarding the optimum use of data and licensing. Such actions may include 
+a local instance of part or the entire dataset to be used/analysed to be stored in 
+NanoCommons servers, so that it can facilitate experimental workflows and is readily 
+available for use by the NanoCommons experts. At the same time, it would be desirable 
+for any raw data and metadata produced/generated to be made available in accordance 
+with FAIR principles and accessible through the NanoCommons tiered licensing system. 
+If that is not possible for raw data (e.g. pending publications), then a descriptive 
+sub-data set and the metadata should be made available under the FAIR principles. 
+Finally, the NanoCommons consortium should attempt to make all fully user exploited 
+raw data and metadata publicly accessible to promote data interoperability and 
+translational research. In such cases, the NanoCommons consortium will make sure that 
+any use of data and metadata will be properly used and cited by external users, 
+through the appropriate actions (e.g. DOI assignment) and terms and conditions.  
+
 ## Appendix B: NanoCommons Customized RDM Online Plan
+
