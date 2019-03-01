@@ -308,3 +308,54 @@ through the appropriate actions (e.g. DOI assignment) and terms and conditions.
 
 ## Appendix B: NanoCommons Customized RDM Online Plan
 
+The NanoCommons customised RDMO Plan will cover the entirety of the data lifecycle
+(Figure A1), which contains 6 steps, i.e. experimental planning, data acquisition,
+data manipulation, data analysis, data storage and online access using Open data and 
+FAIR principles whenever possible. Each step of the data lifecycle aims to provide
+the NanoCommons partners, TA Users and the wider nanosafety and nanoinformatics
+communities with all the necessary tools for the production, analysis and handling
+of high quality data.
+
+![](media/image2.png) <br></br>
+Figure A1. The complete data lifecycle.
+
+## Step 1: Experimental planning
+
+The first step of the data lifecycle is the experimental planning, during which 
+the identification of research endpoints takes place, the number of samples and
+time points, and the necessary workflow and experimental assays and/or modelling
+tools are identified. During this step the whole experimental workflow is
+designed, the detailed experimental and/or analytical protocols identified, what
+is recorded and in what detail, and the appropriate data curation templates
+created. This process will take place irrespective of the nature of the needed
+work (experimental and/or theoretical), as it will customise the workflow to
+the specific needs of individual Users.
+
+The specified workflow will be implemented into the SciNote online lab-book
+(Figure A2, scinote.net), which will include all the separate steps of the
+experimental and/or theoretical workflow. SciNote was the prefered online
+lab-book due to a combination of user friendliness, dynamic and versatile
+nature and significant capabilities, although other options are also commercially 
+available. SciNote offers the capability of implementation of a desired data
+master curation template for experimental data to be stored and extracted,
+while providing also the opportunity for distinct smaller scale templates,
+which can be protocol specific. It also offers the capability of analytical
+protocols implementation, metadata creation and reporting. It also allows
+the design and assignment of experimental workflows at various levels ranging
+from an individual researcher to a consortium wide scale, while being readily
+available both through local (LAN) and wide (WAN) networks based on specific 
+needs.
+
+Each workflow step will be linked to the necessary experimental and/or 
+computational detailed protocols (Figure A3), the results page (Figure A4)
+and the master data curation template (Figure A5), which will be possible 
+to automatically extract and upload to the desired data repository. The
+complete experimental or computational stepwise workflow will be accessible 
+by the TA Users and the NanoCommons partners that will be responsible for
+the successful completion of the specific task, and will allow the 
+streamlined online transfer of data between partners facilitating the
+prompt completion of the entire workflow.
+
+![](media/image8.png)
+
+Figure A2. Experimental workflow for the physicochemical characterisation of an engineered nanomaterial (ENM) using the SciNote online lab-book. 
