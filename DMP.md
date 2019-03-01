@@ -358,4 +358,90 @@ prompt completion of the entire workflow.
 
 ![](media/image8.png)
 
-Figure A2. Experimental workflow for the physicochemical characterisation of an engineered nanomaterial (ENM) using the SciNote online lab-book. 
+Figure A2. Experimental workflow for the physicochemical characterisation of
+an engineered nanomaterial (ENM) using the SciNote online lab-book. 
+
+![](media/image10.png)
+
+Figure A3. All experimental/computational workflow steps will be directly
+linked to detailed protocols.
+
+![](media/image7.png)
+
+Figure A4. The results page will be where individual datasets acquired or
+calculated will be stored.
+
+![](media/image9.png)
+
+Figure A5. The complete set of acquired/computed data will be automatically
+transferred to a curation template, which will be possible to automatically
+extract and send for uploading to the NanoCommons and any other linked data
+repository.
+
+## Step 2: Data acquisition and data curation
+
+During the second step the actual data acquisition and simultaneous curation
+takes place along with data digitisation using either directly online
+lab-books described above or through the offline acquisition/analysis and
+subsequent transfer to the online lab-books and the specific data curation
+template.
+
+## Step 3: Data manipulation and data curation
+
+The third step of the DMP will focus on data manipulation, i.e. the process
+of data cleansing and control of the dataset’s quality and completeness.
+During this stage the dataset completeness will be evaluated, potential
+gaps and/or outliers identified and any repetition or supplemental data 
+acquisition needed will take place. When the dataset is completed it will
+be stored into a data repository, compatible with EUON, and any tools
+needed for the subsequent analysis will be implemented and linked to it.
+The tools developed and on offer from the NanoCommons Project are based
+on an ongoing survey ([http://www.surveymonkey.co.uk/r/PK2KXWW](http://www.surveymonkey.co.uk/r/PK2KXWW))
+regarding the needs and desires of the NanoSafety Community, and beyond. 
+
+## Step 4: Data analysis
+
+This step consists of all potential analytical or computational work 
+that needs to take place to the produced dataset, in order to extract
+meaningful data interpretation and research outputs. The analysis will
+be based on the needed tools provided via the NanoCommons platform
+(e.g. QSARs, Omics, modelling, visualisation) and will be fully
+integrated with the NanoCommons ontology (with any missing terms or
+concepts added in draft form in real time, which will then be checked,
+amended and integrated into the final ontology once it is confirmed
+by partner MU that there is no equivalent term already in place), and
+will be implemented based on individual needs, within the NanoCommons
+KnolwedgeBase platform, leading to peer-reviewed open access
+publication(s).
+
+## Step 5: Data Storage
+
+Following the completion of the analytical or computational procedure,
+the produced data will be backed up and stored and the necessary
+metadata will be created. The metadata will be used to inform potential
+future users regarding the ownership of the datasets and user rights,
+information on retrieval and analytical descriptions of the respective
+datasets. During this step any necessary documentation describing the
+above will also be created and DOI numbers will be assigned to each
+dataset. DOIs will be used to assist with publications (submitting raw
+datasets to peer-reviewed journals in a digital form), referencing of
+the respective datasets by future users, to ensure that the original
+data owners are acknowledged and to facilitate the transition from
+closed to FAIR and Open data.
+
+## Step 6: FAIR Data
+
+The final step in the NanoCommons online data management processes
+will be the transformation of the data collected/generated/analysed
+through the project as FAIR and Open. NanoCommons is dedicated to
+FAIR data, but also acknowledges the need for the protection of the
+original data owners until all desired data exploitation and 
+publications have been completed. In that sense, the NanoCommons 
+Consortium will be in close contact with TA Users and project
+partners and will try to ensure that all data will eventually
+become FAIR and, when possible, Open. As noted in Appendix A, a
+prerequisite for securing of TA funding and technical support via
+NanoCommons is agreement that data imported and generated as a
+result of JRA, NA and TA activities will be made Open and FAIR.
+For that, copyright and IP owners must be clearly defined.
+
