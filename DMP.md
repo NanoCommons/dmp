@@ -458,6 +458,16 @@ This principle prescribes that the output must be findable. That is, effort must
 -	*F3. metadata clearly and explicitly include the identifier of the data it describes*  
 -	*F4. (meta)data are registered or indexed in a searchable resource*  
 
+To meet these principles the project aims to use data repositories to store the data generated/collected by the Project and the tools developed from the Consortium. This will allow the datasets and tools to be easier to find and access. The repositories will also include an appropriate licensing system to allow a layered access to the available data based on the accessibility decided by the data and/or tools owners. Both datasets and tools will be complemented with the appropriate metadata (and source code in the case of software tools whenever possible) and unique repository and/or DOI identifiers to allow users to easily query and reference. The Project also aims to establish collaborations with existing and under development data repositories and link them together through a joint query system. To achieve this, necessary harmonisation between the repository outputs needs to take place to allow the queried results to be return in a consistent manner, which will also promote interoperability. 
+
+As a result, NanoCommons aims to develop a data and tools repository system which will allow:  
+  1.	accessing a query system with a filtering functionality;  
+  2.	to identify the specific dataset’s/tool’s licensing and access information, desired data fields to be searched (e.g. ENM characterisation parameters, toxicity results, tools source code);  
+  3.	a harmonised data exchange file format; and,  
+  4.	full access to the necessary metadata, which will describe the experimental setup, the analytical tools used and a summary of the research outputs.  
+
+To achieve that harmonised output, NanoCommons will use a joint workflow system implemented in online lab-books using the NanoCommons ontology, which will allow continuous sharing of protocols, data and tools between project partners and users. This will allow the data collected/generated and the tools developed through NanoCommons to be stored in data repositories using a common format and will also make the metadata creation faster. In all cases, the created metadata will be assigned with a unique identifier and version number so it can be easily findable and citable from potential users. 
+
 
 #### 2.1.2 Identifiers and naming conventions <a name="identifiers"></a>
 
