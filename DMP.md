@@ -213,7 +213,7 @@ include specifications on the Open and FAIR provisions, as per Appendix A.
 The structure of the NanoCommons DMP follows the Horizon 2020 ORD Pilot 
 instructions on how to create a DMP. Therefore, additional to this document, 
 the plan is stored and updated online using the recommended DMP tool 
-(Figure 1) available at [dmponline.dcc.ac.uk/](dmponline.dcc.ac.uk/) (see also Appendix B).
+(Figure 1) available at [dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/) (see also Appendix B).
 
 ![](media/image5.png)  
 **Figure 1**. Screenshot of the tool used to create the NanoCommons [DMP](https://dmponline.dcc.ac.uk/plans/26512) 
