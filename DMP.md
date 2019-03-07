@@ -525,7 +525,8 @@ But generally it is accepted that hosting raw can be covered in kind by existing
 1.	Institutional repositories (e.g. UoB [BEAR Hosting Services](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/data-centre-hosting/data-centre-hosting.aspx)))   
 2.	European repositories (e.g. [ZENODO](https://zenodo.org/), part of OpenAIRE)    
 3.	Commercial repositories (e.g. [Figshare](https://figshare.com/) or [Mendeley Data](https://data.mendeley.com/))
-Guidance on selecting repositories can be found in Science Europe’s Practical Guide to the International Alignment of Research Data Management.  
+
+Guidance on selecting repositories can be found in [Science Europe’s Practical Guide to the International Alignment of Research Data Management](https://www.scienceeurope.org/wp-content/uploads/2018/12/SE_RDM_Practical_Guide_Final.pdf).  
 
 
 ### 2.3 Making data interoperable <a name="making_data_interoperable"></a>
