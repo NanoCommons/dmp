@@ -4,10 +4,10 @@
 
 ## Table of contents  
 [Summary](#summary)  
-[Introduction](#introduction)  	
-Data set description  	
-Data sharing	  
-Archiving and preservation	  
+[Introduction](#introduction)    	
+[Data set description](#data_set_description)  	 
+[Data sharing](#data_sharing)
+[Archiving and preservation](#archiving_and_preservation)	  
 1. Data summary	  
 1.1 Purpose of the data collection/generation	  
 1.2 Relation to the objectives of the project  
@@ -140,7 +140,7 @@ available to other nanosafety and nanoinformatics projects to reuse, and all
 updates will be announced widely to the relevant communities (including
 OpenRiskNet). 
 
-### Data set description
+### Data set description <a name="data_set_description"></a>
 
 This section refers to what kinds of data NanoCommons will collect and/or generate, and to whom these data might be useful later. The data set refers to: 
 -	The data and metadata needed to validate results in scientific publications;  
@@ -155,7 +155,7 @@ Further, these questions are addressed in order to determine the potential reuse
 -	What (if any) standards were applied in generating the data?  
 The metadata provided with the datasets answers such questions to enable data to be found and understood, ideally according to the particular standards applied. Finally the metadata, documentation and standards will help in making the data FAIR (Findable, Accessible, Interoperable, and Reusable) [REF,REF,REF].  
 
-### Data sharing
+### Data sharing <a name="data_sharing"></a>
 
 According to the ORD Pilot programme, by default as much of the resulting data
 as possible should be archived as Open Access. Therefore legitimate reasons for
@@ -164,7 +164,7 @@ protection or IPR agreements should not be compromised in any way, and data
 sharing should be done responsibly. Therefore, the DMP describes any ethical or
 legal issues that can have an impact on data sharing.
 
-### Archiving and preservation
+### Archiving and preservation <a name="archiving_and_preservation"></a>
 
 To ensure that publicly funded research outputs can have a positive impact on
 future research, for policy development, and for societal change it is important
