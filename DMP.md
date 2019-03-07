@@ -2,7 +2,26 @@
 
 # NanoCommons Data Management Plan
 
-## Summary
+## Table of contents
+Summary	(#summary)
+Introduction	
+Data set description	
+Data sharing	
+Archiving and preservation	
+1. Data summary	
+1.1 Purpose of the data collection/generation	
+1.2 Relation to the objectives of the project
+1.3 Types and formats of data
+1.3.1 Types of Data
+1.3.2 Formats of Data
+1.4 Reuse of data
+1.5 Origin of the data
+1.6 Expected size of the data
+1.7 Utility of data and models
+
+
+
+## Summary <a name="summary"></a>
 
 
 This deliverable presents the initial data management plan (DMP) for the
