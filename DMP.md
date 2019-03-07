@@ -551,7 +551,42 @@ which was developed to cover the field of QSAR-based predictive toxicology (for 
 
 #### 2.3.1 Supported data exchange formats <a name="supported_data_exchange"></a>
 
-### 2.4 Increase data reuse (through clarifying licenses) <a name="increase_data_reuse"></a>
+It is recommended to discuss with NanoCommons when deciding the proper data exchange format. It is essential to keep the data life cycle in mind here. For long term data storage a format is preferred that is self-contained and self-explanatory. For short term data exchange, for example, to get data indexed in a search engine more application-oriented format may be more appropriate. These formats do not exclude each other, but are rather complementary. In all cases it is essential to explore if convertion or expert to some format causes data loss.
+
+Most database come with other supported formats and exploring the formats in which data will be shared is essential part of a DMP. For data hosted with eNanoMapper technology, various formats are supported. These include a custom Resource Description Framework format (for which a tutorial is being developed), and various spreadsheet templates (IOM templates [REF] and JRC Templates [REF]). The latter two take advantage of a spreadsheet annotation tool developed in eNanoMapper, called [nmdataparser](https://github.com/enanomapper/nmdataparser). 
+This approach has been used to make NANoREG data available to the NanoSafety Cluster community. 
+
+For long term data storage the ISA formats may be of interest. Options are then the original ISA-Tab format, including the ISA-Tab-Nano extension, and the newer JavaScript Object Notation (JSON)-based ISA formats, for which also a nanomaterial extension has been developed [REF].
+
+Of course, for the many omics data types, domain specific formats are recommended, along with deposition of Open Data in domain repositories with those formats.
+
+
+### 2.4 Increase data reuse (through clarifying licenses) <a name="increase_data_reuse"></a>  
+
+-	*Specify how the data will be licensed to permit the widest reuse possible*
+-	*Specify when the data will be made available for reuse. If applicable, specify why and for what period a data embargo is needed*	
+-	*Specify whether the data produced and/or used in the project is usable by third parties, in particular after the end of the project? If the reuse of some data is restricted, explain why*
+-	*Describe data quality assurance processes*
+-	*Specify the length of time for which the data will remain reusable*  
+
+This principle basically outlines that community practices for data sharing and data science should be followed. To be reusable, the principle specify:  
+-	*R1. meta(data) are richly described with a plurality of accurate and relevant attributes*  
+      -	*R1.1. (meta)data are released with a clear and accessible data usage license*   
+      -	*R1.2. (meta)data are associated with detailed provenance*  
+      -	*R1.3. (meta)data meet domain-relevant community standards*  
+      
+Data reusability is in the core of NanoCommons objectives. The data generated/collected/analysed and the tools developed through NanoCommons are going to be implemented with the appropriate metadata and where possible will be made publicly available through a tiered licensing system, which will allow data accessibility in collaboration always with the data owners and their exploitation needs. In many cases, a data embargo may need to be imposed. Examples of such cases may include pending publications, PhD candidates, ongoing EU and national projects requiring confidential data etc. Embargos can be lifted when all relevant data exploitation by the data owners has been completed. In a similar manner, any data, processes or tools source code originating from the project may be embargoed by the consortium until potential IP requirements and  publications have been completed.
+
+NanoCommons envisages to also link to its database high quality data from other publicly available sources spanning the full spectrum of nanosafety research. To achieve that the Project needs to harmonise the data as much as possible, develop an appropriate query system and make it available to third parties under the produced licensing system. Such an action means that the data and tools under offer needs to be systematically checked using strict QA processes. 
+
+QA processes for data generated/collected by NanoCommons will be automatically implemented into the experimental workflows developed prior to any offered service and will be made available to all partners using online lab-books. The checks will include the evaluation of the experimental protocols used or to be used, reproducibility, the tools source code and abilities and the presence of potential gaps in datasets. 
+
+A similar approach needs to be implemented for pre-existing datasets to be imported into the NanoCommons database. In these cases, and especially for the curation of already published peer-reviewed data, a manual curation process will most likely have to be implemented that will also mean that the curators will decide on the level of data quality. For other datasets, tools performing automated QA analysis and (pre)processing (e.g. arrayanalysis.org/ and github.com/BiGCAT-UM) and QA and analysis of sequencing data pipelines developed by the Consortium (e.g. Maastricht’s University RNA seq and MeDIP seq) will be implemented and made available for use. 
+
+
+
+
+
 
 ## 3. Allocation of resources <a name="allocation_of_resources"></a>
 
