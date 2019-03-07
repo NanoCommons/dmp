@@ -34,6 +34,9 @@
 [Final remarks](#final_remarks)  
 [References](#references)  
 [Appendixes](#appendixes)  
+[Appendix A: RDM Copyright, License, and Waiver Clearance Form](#appendix_a)
+[Appendix B: NanoCommons Customized RDM Online Plan](#appendix_b)
+
 
 
 
@@ -714,8 +717,6 @@ One area where time can be saved, is making data FAIR. Particularly making inter
 
 
 
-
-
 ## References <a name="references"></a>
 
 1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
@@ -728,7 +729,7 @@ One area where time can be saved, is making data FAIR. Particularly making inter
 
 # Appendixes <a name="appendixes"></a>
 
-## Appendix A: RDM Copyright, License, and Waiver Clearance Form
+## Appendix A: RDM Copyright, License, and Waiver Clearance Form <a name="appendix_a"></a>
 
 <table>
   <tr>
@@ -768,7 +769,7 @@ translational research. In such cases, the NanoCommons consortium will make sure
 any use of data and metadata will be properly used and cited by external users, 
 through the appropriate actions (e.g. DOI assignment) and terms and conditions.  
 
-## Appendix B: NanoCommons Customized RDM Online Plan
+## Appendix B: NanoCommons Customized RDM Online Plan <a name="appendix_a"></a>
 
 The NanoCommons customised RDMO Plan will cover the entirety of the data lifecycle
 (Figure A1), which contains 6 steps, i.e. experimental planning, data acquisition,
