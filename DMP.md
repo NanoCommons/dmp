@@ -6,7 +6,6 @@
 [Summary](#summary)  
 
 [Introduction](#introduction)    
-
 [Data set description](#data_set_description)  
 
 [Data sharing](#data_sharing)  
