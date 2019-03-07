@@ -489,15 +489,28 @@ To ensure clear and explicit semantics, when using identifiers in dissemination,
 -	*Specify how access will be provided in case there are any restrictions*  
 
 This principle prescribes that data must be accompanied with metadata that explains how people get access to the data. This does not imply they always get access (generally they do), but if they do, how. To be accessible, the principles specify:   
--	*A1. (meta)data are retrievable by their identifier using a standardized communications protocol   
-      -	A1.1 the protocol is open, free, and universally implementable  
-      -	A1.2 the protocol allows for an authentication and authorization procedure, where necessary  
--	A2. metadata are accessible, even when the data are no longer available.*  
+-	*A1. (meta)data are retrievable by their identifier using a standardized communications protocol*   
+      - *A1.1 the protocol is open, free, and universally implementable*  
+      -	*A1.2 the protocol allows for an authentication and authorization procedure, where necessary*  
+-	*A2. metadata are accessible, even when the data are no longer available.*  
 
+#### 2.2.1 Open Data <a name="open_data"></a>  
 
-#### 2.2.1 Open Data <a name="open_data"></a>
+The aforementioned section from our DoA briefly outlines the git of the H2020 Open Data pilot: we give access to third parties to our data. In fact, the section is quite close to the core rights involved in Open Science, the rights to use/reuse, modify, and reshare knowledge. At the same time it does set some reasonable limits: for example, where there are good reasons to not make data available (e.g. because of privacy aspect of human data), this is acceptable but must be explicitly reasoned for, and this must be documented. However, this guidance leaves plenty of room for us to implement our approach, and this leaves plenty of options and decision to be made.
 
 #### 2.2.2 Free Access <a name="free_access"></a>
+
+One controversial aspect of the current implementation of Open Access is to provide free access, free as in without cost to the user. Of course, hosting data is not without cost, but NanoCommons aims to achieve the sustainability and accessibility of data and tools beyond the project’s lifetime.
+To place the NanoCommons resources on a sustainable footing for the longer term, a business plan to secure future access and iterative development of the overall platform and set of associated infrastructure facilities will be developed. NanoCommons is foreseen to be an infrastructure for all. Nevertheless, its sustainability will depend on how to bring in the resources to run and maintain this infrastructure beyond the lifetime of the project. Therefore, the project will focus on how to gain value added for the different stakeholder groups, hence, defining the information flow directions as well as the streams of resources. Additionally, the implementation of the sustainable concept will be supported by testing of this business plan during the runtime of the project. Further shaping and modifications according to the feedback gained during the sustainability-testing-phase is envisaged which will lead to a sustainable integration of NanoCommons infrastructure.
+
+In the long run, NanoCommons envisages transferring its resources into either the [EU Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) (EOSC), which is under implementation following the adoption of the Implementation Roadmap for the European Science Cloud (Staff Working Document SWD(2018) 83) on 14 March 2018 or ECHA’s [European Observatory for Nanomaterials](https://euon.echa.europa.eu/) (EUON).   
+
+But generally it is accepted that hosting raw can be covered in kind by existing solutions:  
+1.	Institutional repositories (e.g. UoB [BEAR Hosting Services](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/data-centre-hosting/data-centre-hosting.aspx)))   
+2.	European repositories (e.g. [ZENODO](https://zenodo.org/), part of OpenAIRE)    
+3.	Commercial repositories (e.g. [Figshare](https://figshare.com/) or [Mendeley Data](https://data.mendeley.com/))
+Guidance on selecting repositories can be found in Science Europe’s Practical Guide to the International Alignment of Research Data Management.  
+
 
 ### 2.3 Making data interoperable <a name="making_data_interoperable"></a>
 
