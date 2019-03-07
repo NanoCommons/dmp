@@ -355,7 +355,9 @@ In all cases, the usage of a common ontology for data description and curation c
 ### 1.4 Reuse of data <a name="reuse_of_data"></a>
 
 NanoCommons aims to use the data collected/generated through the project, as well as high quality curated peer-reviewed published data. In terms of tools, the project will identify and use already existing tools (modelling, Quantitative Structure-Activity Relationships (QSARs), Omics etc.) and will work to improve them further using the data collected/generated through the project. The NanoCommons project also aims to harmonise, combine and analyse existing datasets to improve and refine scientific findings and conclusions, promote cross-project/field collaboration and promote translational research. 
+
 For data templates, SOPs and decision trees, we will use, as much as possible, existing data, software tools, open and readily available to all partners. We will aim to produce reusable and extensible tools, and to make use of existing nanomaterials safety and characterisation data, where possible.
+
 SOPs developed within NanoMILE and NanoFASE for characterisation of NMs in biological and environmental matrices are being reused where possible, and any changes documented as part of the metadata and domains of applicability sections of the SOPs.  For example, in the development of SciNote online notebooks, we are utilising existing lab data and lab protocols.
 
 Table 1 below summarises the datasets that are potentially being reused within the context of NanoCommons.
