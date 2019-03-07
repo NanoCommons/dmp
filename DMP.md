@@ -258,11 +258,15 @@ These formal expectation set aside, the project has quite some liberty in settin
 
 ## 1. Data summary <a name="data_summary"></a>  
 
-<table>
-  <tr>
-    <th>Summary of the data addressing the following issues</th>
-  </tr>
-</table>  
+*Summary of the data addressing the following issues:*  
+-	*State the purpose of the data collection/generation*  
+-	*Explain the relation to the objectives of the project*  
+-	*Specify the types and formats of data generated/collected*   
+-	*Specify if existing data is being reused (if any)*  
+-	*Specify the origin of the data*  
+-	*State the expected size of the data (if known)*
+-	*Outline the data utility: to whom will it be useful*
+
 
 ### 1.1 Purpose of the data collection/generation <a name="purpose_of_data_collection"></a>
 
