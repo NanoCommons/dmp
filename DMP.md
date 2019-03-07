@@ -471,7 +471,29 @@ To achieve that harmonised output, NanoCommons will use a joint workflow system 
 
 #### 2.1.2 Identifiers and naming conventions <a name="identifiers"></a>
 
+Of particular importance are the use of identifiers here. As many aspects of the experiments should be linked to identifiers, including but not limited to: ENMs, cell lines, bioassays, species, genes, proteins, and metabolites. Identifiers should come from internationally recognized databases or resources whenever possible. For example, gene identifiers should be ideally from Ensembl or NCBI Gene, or from the HGNC for human genes. For proteins UniProt would be a good resource. For nanomaterials, the proper JRC identifiers (JRCNMxxx) must be used (the NM-xxx only apply for very old batches). If nanomaterials do not have globally unique identifier, the NanoCommons project can provide unique identifiers. Ontology identifiers are first class supported identifiers.
+
+##### 2.1.2.1 Disseminate testing material identifiers  
+Similar to the idea of pre-registration of clinical trials, each project should disseminate the identifiers they have chosen to represent the nanomaterials selected to be tested or used in that project. These identifiers must be publicly announced as soon as a material is selected, widely distributed within the project, disseminated to other projects, and consistently used in all reporting, experimental protocols, results, metadata, etc.
+
+##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination    
+To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [REF].  
+
+
 ### 2.2 Making data openly accessible <a name="making_data_openly_accessible"></a>
+
+-	*Specify which data will be made openly available? If some data is kept closed provide rationale for doing so*  
+-	*Specify how the data will be made available*  
+-	*Specify what methods or software tools are needed to access the data? Is documentation about the software needed to access the data included? Is it possible to include the relevant software (e.g. in open source code)?*  
+-	*Specify where the data and associated metadata, documentation and code are deposited*  
+-	*Specify how access will be provided in case there are any restrictions*  
+
+This principle prescribes that data must be accompanied with metadata that explains how people get access to the data. This does not imply they always get access (generally they do), but if they do, how. To be accessible, the principles specify:
+●	*A1. (meta)data are retrievable by their identifier using a standardized communications protocol  
+○	A1.1 the protocol is open, free, and universally implementable  
+○	A1.2 the protocol allows for an authentication and authorization procedure, where necessary  
+●	A2. metadata are accessible, even when the data are no longer available.*  
+
 
 #### 2.2.1 Open Data <a name="open_data"></a>
 
