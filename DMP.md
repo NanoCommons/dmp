@@ -2,8 +2,8 @@
 
 # NanoCommons Data Management Plan
 
-## Table of contents
-Summary	(#summary)
+## Table of contents  
+Summary(#summary)  
 Introduction	
 Data set description	
 Data sharing	
