@@ -614,6 +614,16 @@ All TA will be offered via **centralised calls** for User Access run on a 6-mont
 
 ## 4. Data security <a name="data_security"></a>
 
+- *Address data recovery as well as secure storage and transfer of sensitive data*  
+
+The NanoCommons approach on sensitive data security, secure storage, recovery and transfer will follow existing privacy, copyright, sui generis, and GDPR laws and will include:
+
+  1.	Responsible and fully secured management processes for personal data. These will include the anonymisation, encryption, logging of data usage as well as data deletion following usage. Implementation has already begun with the [NanoCommons website](http://nanocommons.eu/) having all necessary security protocols and tools (anti-hacking and malware plugins) added to prevent any malicious attacks.  
+  2.	The management team and the NanoCommons Consortium will ensure that all partners and users will follow strict ethical guidelines covering all aspects of the project’s infrastructure. A privacy-by-design approach will be followed and controlled by an independent Data Protection Officer.  
+  3.	The presence in the consortium of established software and tools development partners (e.g. Biomax, DC) will ensure data protection with the use of their state of the art firewall capabilities that can also protect the entirety of the project’s virtual environment.  
+  
+Data sharing and transfer among persons or partners will be, where appropriate, third party secure file transfer facilities, such as the NanoCommons knowledge warehouse, Figshare and OpenAIRE and via the internal communication platform. In the longer-term it is anticipated that NanoCommons  datasets will be curated for and stored in certified repositories not dependent on the project funds for long term preservation (e.g. the OpenAIRE or UoB Research Data Store), if we are not able to secure our status as an Advanced Research Infrastructure or ERIC.
+
 ## 5. Ethical aspects <a name="ethical_aspects"></a>
 
 ## Final remarks <a name="final_remarks"></a>
