@@ -665,7 +665,31 @@ are very knowledgeable in the field, and so do several members of the European P
 [Julia Reda](https://juliareda.eu/en/). 
 IT journals also provide information, like the German C’t with 
 [Welche Änderungen die neue EU-Datenschutz-Regulierung in Deutschland bringen wird](https://www.heise.de/select/ct/2016/09/1461574428497459).
- 
+
+**RDM tools**
+There are many tools around that support and/or provide guidance, including the following services:  
+-	[DMPOnline](https://dmponline.dcc.ac.uk/) (used in this report)  
+-	[Data Stewardship Wizard](https://ds-wizard.org/) (ELIXIR-NL)  
+-	[RDMO: Research Data Management Organiser](https://rdmorganiser.github.io/)  
+-	[ReDBox Research Data Management Plan (RDMP) tool](https://www.redboxresearchdata.com.au/plan/)  
+
+**RDM courses and guidance**
+-	[H2020 Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)  
+-	“Data management made simple” [REF] with Twelve tips for writing a data-management plan  
+-	[ELIXIR Webinar: Requirements in data protection law and the upcoming General Data Protection Regulation (GDPR) implementation](https://www.elixir-europe.org/events/webinar-gdpr)  
+-	[DataONE Webinar: Data management plans 2.0: Helping you manage your data](https://www.dataone.org/webinars/data-management-plans-20-helping-you-manage-your-data)  
+-	[SpringerNature’s Research Data Support](https://www.springernature.com/de/authors/research-data-policy)  
+-	[ORCID and Data Privacy in Germany](https://orcid.org/blog/2018/04/18/orcid-and-data-privacy-germany)  
+-	“Support Your Data: A Research Data Management Guide for Researchers” [REF]  
+-	[Data Protection Officer (DPO) Certification course by Maastricht University](https://www.maastrichtuniversity.nl/events/data-protection-officer-dpo-certification-course-7)  
+-	[12 Things to Know About the GDPR and Data Security](https://www.dreamhost.com/blog/what-to-know-about-gdpr-data-security/)  
+-	[Complete guide to GDPR compliance by GDPR.eu, a H2020 funded project](https://gdpr.eu/)  
+-	OpenAIRE: a pillar for Open Science in the EU: a Horizon 2020 GRACIOUS Webinar  
+-	Ten simple rules for machine-actionable data management plans (preprint) by OpenAIRE  
+-	The (GA4GH) Data Use Ontology (DUO)  
+-	Science Europe: Practical Guide to the International Alignment of Research Data Management  
+
+
 
 
 ## References <a name="references"></a>
