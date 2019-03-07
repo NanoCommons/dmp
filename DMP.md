@@ -438,10 +438,26 @@ Potential beneficiaries of the data, tools and the NanoCommons infrastructure:
 
 ## 2. FAIR data <a name="fair_data"></a>
 
+The FAIR principles refer to a number of features that data, software, etc. should have to maximize their value and societal impact [5]. They are grouped into four categories, as given before. Each of the four aspects of the principles will see a different way it is implemented for that kind of data. For example, in some cases, raw data may not be findable to people outside NanoCommons until the primary publications are completed, and interoperability mostly applies to metadata. For data associated with formal publications it must be publicly available and interoperable at a very high level to benefit the community. Similarly, when computational approaches are taken into account, FAIR raw data is essential for any beneficial scientific effects.
+How these principles are implemented, how they are used, is totally up to the user. They have been defined quite broadly so that apply to different kinds of scientific output. This has led to confusion how to make your data FAIR. In fact, it is not a black-and-white situation, but there are many shades of grey. The point is that data should be as FAIR as possible. This in turn suggests there is a scale of FAIR-ness, and metrics have been proposed [6].
 
 ### 2.1 Making data findable, including provisions for metadata <a name="making_data_findable"></a>
 
+-	Outline the discoverability of data (metadata provision)  
+-	Outline the identifiability of data and refer to standard identification mechanism. Do you make use of persistent and unique identifiers such as Digital Object Identifiers?  
+-	Outline naming conventions used  
+-	Outline the approach towards search keyword  
+-	Outline the approach for clear versioning  
+-	Specify standards for metadata creation (if any). If there are no standards in your discipline describe what metadata will be created and how   
+
 #### 2.1.1 Making data discoverable, including provisions for metadata <a name="making_data_discoverable"></a>
+
+This principle prescribes that the output must be findable. That is, effort must be made to make sure people can find the data. To be findable, the principles specify:
+- *F1. (meta)data are assigned a globally unique and persistent identifier*  
+-	*F2. data are described with rich metadata (defined by R1 below, in section 2.4)*  
+-	*F3. metadata clearly and explicitly include the identifier of the data it describes*  
+-	*F4. (meta)data are registered or indexed in a searchable resource*  
+
 
 #### 2.1.2 Identifiers and naming conventions <a name="identifiers"></a>
 
@@ -465,7 +481,7 @@ Potential beneficiaries of the data, tools and the NanoCommons infrastructure:
 
 ## Final remarks <a name="final_remarks"></a>
 
-## References
+## References <a name="references"></a>
 
 1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 2. <a nane="ref2" />OpenAIRE - OpenAIRE [Internet]. Available: [https://www.openaire.eu/](https://www.openaire.eu/)
@@ -475,7 +491,7 @@ Potential beneficiaries of the data, tools and the NanoCommons infrastructure:
 6. <a nane="ref6" />[https://www.biorxiv.org/content/early/2017/12/01/225490](https://www.biorxiv.org/content/early/2017/12/01/225490)
 7. <a nane="ref7" />Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. Nature Publishing Group; 2016;3: 160018.
 
-# Appendixes
+# Appendixes <a name="appendixes"></a>
 
 ## Appendix A: RDM Copyright, License, and Waiver Clearance Form
 
