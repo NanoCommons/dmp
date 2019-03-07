@@ -4,14 +4,10 @@
 
 ## Table of contents  
 [Summary](#summary)  
-
 [Introduction](#introduction)    
 [Data set description](#data_set_description)  
-
 [Data sharing](#data_sharing)  
-
-[Archiving and preservation](#archiving_and_preservation)	  
-
+[Archiving and preservation](#archiving_and_preservation)	   
 1. Data summary	  
 1.1 Purpose of the data collection/generation	  
 1.2 Relation to the objectives of the project  
