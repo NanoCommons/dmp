@@ -514,6 +514,18 @@ Guidance on selecting repositories can be found in Science Europe’s Practical 
 
 ### 2.3 Making data interoperable <a name="making_data_interoperable"></a>
 
+-	*Assess the interoperability of your data. Specify what data and metadata vocabularies, standards or methodologies you will follow to facilitate interoperability*  
+-	*Specify whether you will be using standard vocabulary for all data types present in your data set, to allow inter-disciplinary interoperability? If not, will you provide mapping to more commonly used ontologies?*  
+
+This principles prescribes that data must be sufficiently annotated such that people can understand what the data means. This means a clear data format must be used, values must have units, columns must have clear annotation what was measured, etc. This is also where ontologies (vocabularies) typically come in. To be interoperably, the principles specify:  
+    -	*I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation*  
+    -	*I2. (meta)data use vocabularies that follow FAIR principles*  
+    -	*I3. (meta)data include qualified references to other (meta)data*  
+
+The NanoCommons objectives are to make the data generated/collected and the tools developed during the project’s lifecycle as interoperable as possible and to promote dataset combination and translational research. This means that the acquired data needs to be captured using a harmonised approach. To achieve that the project will use common data curation templates based on the ISA-TAB extended file format, which is an accepted ASTM standard (ASTM International E2909-13), are dynamic and flexible and can be modified accordingly to accommodate all User and project needs. The use of best practice examples (e.g. [diXa](http://www.dixa-fp7.eu/) and [ToxBank](https://toxbank.net/)) may be used for template creation, as well as the NIKC data curation template, which is especially versatile, treats experimental protocols and instruments as data points and can accommodate all fields of nanosafety research. 
+
+
+
 #### 2.3.1 Supported data exchange formats <a name="supported_data_exchange"></a>
 
 ### 2.4 Increase data reuse (through clarifying licenses) <a name="increase_data_reuse"></a>
