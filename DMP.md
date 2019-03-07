@@ -297,7 +297,8 @@ research.
 
 
 ### 1.2 Relation to the objectives of the project <a name="relation_to_the_objectives"></a>  
-NanoCommons is driven by the European nanosafety, nanomedicine and emerging materials research and regulatory communities need for an e-infrastructure providing a standardised, reproducible and interoperable way to access all available data, knowledge and analysis and facilitate the application of nanoinformatics and modelling tools that have been adapted and verified as suitable for application to nanomaterials.
+NanoCommons is driven by the European nanosafety, nanomedicine and emerging materials research and regulatory communities need for an e-infrastructure providing a standardised, reproducible and interoperable way to access all available data, knowledge and analysis and facilitate the application of nanoinformatics and modelling tools that have been adapted and verified as suitable for application to nanomaterials. 
+
 More than 10 years of nanosafety research has delivered tangible insights into the key science and policy required for the development of safe nano-enabled products. However, this knowledge has yet to be systematised, or made “FAIR”, in a manner that allows:    
 -	modellers to develop predictive frameworks and assess their domains of applicability,  
 -	industry to utilise the data, models and tools for safe-by-design strategies or as supporting evidence for use in regulatory dossiers,   
