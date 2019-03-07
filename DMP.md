@@ -783,7 +783,7 @@ translational research. In such cases, the NanoCommons consortium will make sure
 any use of data and metadata will be properly used and cited by external users, 
 through the appropriate actions (e.g. DOI assignment) and terms and conditions.  
 
-## Appendix B: NanoCommons Customized RDM Online Plan <a name="appendix_a"></a>
+## Appendix B: NanoCommons Customized RDM Online Plan <a name="appendix_b"></a>
 
 The NanoCommons customised RDMO Plan will cover the entirety of the data lifecycle
 (Figure A1), which contains 6 steps, i.e. experimental planning, data acquisition,
