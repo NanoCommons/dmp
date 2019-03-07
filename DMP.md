@@ -333,11 +333,50 @@ Table 1 below summarises the datasets that are potentially being reused within t
     <th>Description of Data</th> 
     <th>Purpose in NanoCommons</th>
   </tr>
+  
   <tr>
     <td>NanoMILE</td>
     <td>Characterisation data and calculated descriptors for up to >75 different NMs via the NanoMILE NMs library. Data identifying ENM property factors important for hazard, and representative ENMs that range in those properties.</td>
-    <td>To provide baseline characterisation data for a wide panel of NMs, that will be used to parameterise the domain of applicability of the various computational models, as well as for benchmarking of the newly developed models and tools.   </
+    <td>To provide baseline characterisation data for a wide panel of NMs, that will be used to parameterise the domain of applicability of the various computational models, as well as for benchmarking of the newly developed models and tools.</td>
   </tr>
+      
+  <tr>
+    <td>NanoFASE</td>
+    <td>Fate process relevant data (e.g. separation between sludge and effluent in WWTPs) and characterisation of the transformations of NMs in the different environmental compartments.  Data on microbial degradation of commonly applied coating materials.</td>
+    <td>Considerable method development underway, specifically for functional assays to characterise the transformed states of nanomaterials in different environmental compartments. This data will be utilised to demonstrate the validity and utility of the NIKC instances approach, and how the concept expands dramatically the scale of the data available, but also the predictions that can be made utilising the data.</td>
+  </tr>
+      
+  <tr>
+    <td>NanoPolyTox, GUIDEnano, SUN</td>
+    <td>Release methods and data for NMs enabled product types especially of worked case studies.</td>
+    <td>Release data will be utilised to support the NanoCommons risk assessment tools (models) and will provide methods, SOPs and datasets for benchmarking the computational tools.  Any of these projects could also service as Case Study for data  importation into the NanoCommons data warehouse, allowing all required steps to be fully documented and described for subsequent data uploaders. </td>
+  </tr>
+  
+  <tr>
+    <td>NIKC</td>
+    <td>Characterisation data of nanomaterials through their entire lifecycle in conjunction with characterisation of the surrounding environment. Anticipated use scenarios, matrix, concentration in products, system characteristics (environmental, biological, laboratory, etc.). Exposure and hazard measurements, calculations, and estimates and metadata associated with each of these, including bibliometrics, protocols, equipment, temporal and spatial descriptors, etc.</td>
+    <td>The currently curated hazard and exposure data will be utilised to support the NanoCommons hazard and exposure modelling. Over time the expansion of the NIKC towards all aspects of nanosafety research (e.g. fate, risk assessment, regulatory), will broaden data utilisation and interoperability and will also promote translational research. The use of experimental protocols and instruments as data points, will also allow the development of data QC tools to test for data completeness and for protocol optimisation and standardisation. </td>
+  </tr>
+      
+  <tr>
+    <td>NANoREG</td>
+    <td>Characterisation data for the JRC repository test NMs, and the templates for data collection for selected characterisation end-points.</td>
+    <td>The characterisation data are deposited in the eNanoMapper database, and an MoU will be sought to access the characterisation data as part of the Model benchmarking and Domain of applicability  assessment.</td>
+  </tr>
+  
+  <tr>
+    <td>eNanoMapper</td>
+    <td>Ontology terms, database structure for nanosafety.</td>
+    <td>NanoCommons will utilise the existing ontology and extend it with a range of characterisation terms to support the implementation of the decision tree and analytical toolbox.</td>
+  </tr>
+  
+  <tr>
+    <td>Projects funded under NMBP-14-2018 (nanoinformatics call)</td>
+    <td>The projects funded under this call will be specifically developing nanoinformatics models, and will also require a knowledge warehouse, APIs, and large scale datasets, so we will provide access to NanoCommons developments to facilitate further reuse.</td>
+    <td>By facilitating access to and reuse of datasets that it has compiled, curated, integrated and aligned, NanoCommons will be serving the community needs, and more reuse builds a stronger case for subsequent application for funding as an Advanced Research Community. </td>
+  </tr>
+      
+      
 </table>
 
 
