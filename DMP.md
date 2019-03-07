@@ -626,7 +626,7 @@ Nanoinformatics workflows for nanosafety experiments / best practice workflows.
 
 All TA will be offered via **centralised calls** for User Access run on a 6-monthly basis.  Calls for access will include micro-projects (up to 1 month Access), mini-projects (up to 6 months of access) and workflow Access to include site-visits to expert labs and support in establishment of nanoinformatics workflows to underpin excellence in experimental design.  A pre-requisite for TA projects related to TA modality will be that data utilised will be made open access and FAIR via NanoCommons research infrastructure via the TA funding held by the partners to support the TA Users.
 
-
+![](media/image1.png)  
 **Figure 2**. Flow of data in the NanoCommons project.
 
 ## 4. Data security <a name="data_security"></a>
