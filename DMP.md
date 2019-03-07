@@ -213,7 +213,7 @@ the plan is stored and updated online using the recommended DMP tool
 (Figure 1) available at [dmponline.dcc.ac.uk/](dmponline.dcc.ac.uk/) (see also Appendix B).
 
 ![](media/image5.png)  
-**Figure 1**. Screenshot of the tool used to create the NanoCommons DMP<sup>1</sup> 
+**Figure 1**. Screenshot of the tool used to create the NanoCommons [DMP](https://dmponline.dcc.ac.uk/plans/26512) 
 
 **The NanoCommons Research Data Management Plan**  
 The Data Management Plan (DMP) is essential to ensure the capture of 
@@ -237,8 +237,9 @@ by TA Users as part of their access provision.
 
 #### Expectations
 
-The NanoCommons DoA describes the goal of this deliverable (due at Month 6):
-*A specific strategy to provide open access to data will be developed according to the recommendations of the Horizon2020 ORD Pilot. The strategy will include the development of initial and final FAIR DMPs (M6 and M48 respectively), which will outline and support implementation of procedures to ensure full access to data incorporated within NanoCommons.*
+The NanoCommons DoA describes the goal of this deliverable (due at Month 6):  
+
+*A specific strategy to provide open access to data will be developed according to the recommendations of the [Horizon2020 ORD Pilot](https://www.openaire.eu/opendatapilot). The strategy will include the development of initial and final FAIR DMPs (M6 and M48 respectively), which will outline and support implementation of procedures to ensure full access to data incorporated within NanoCommons.*
 
 However, a second section of our DoA is essential, and is part of our agreement (contract) with the EC, which describes in more detail how NanoCommons is expected to provide access to third-parties of data produced within NanoCommons (emphasize ours):
 
