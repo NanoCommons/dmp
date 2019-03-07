@@ -153,6 +153,7 @@ Further, these questions are addressed in order to determine the potential reuse
 -	Who created it and why?  
 -	In which forms it is available?  
 -	What (if any) standards were applied in generating the data?  
+
 The metadata provided with the datasets answers such questions to enable data to be found and understood, ideally according to the particular standards applied. Finally the metadata, documentation and standards will help in making the data FAIR (Findable, Accessible, Interoperable, and Reusable) [REF,REF,REF].  
 
 ### Data sharing <a name="data_sharing"></a>
