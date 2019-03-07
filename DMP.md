@@ -34,8 +34,8 @@
 [Final remarks](#final_remarks)  
 [References](#references)  
 [Appendixes](#appendixes)  
-    [Appendix A: RDM Copyright, License, and Waiver Clearance Form](#appendix_a)  
-    [Appendix B: NanoCommons Customized RDM Online Plan](#appendix_b)
+[Appendix A: RDM Copyright, License, and Waiver Clearance Form](#appendix_a)  
+[Appendix B: NanoCommons Customized RDM Online Plan](#appendix_b)
 
 
 
