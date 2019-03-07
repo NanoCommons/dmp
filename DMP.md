@@ -415,7 +415,7 @@ Table 1 below summarises the datasets that are potentially being reused within t
          
 </table>
 
-### 1.5 Origin of the data <a name="origin_of_data"></a>    
+### 1.5 Origin of the data <a name="origin_of_the_data"></a>    
 
 The data sources and offered tools through the project will take into account the original licences for the versions integrated into the NanoCommons infrastructure, if applicable. For data and tools created directly through the project, a respective licensing system will be developed. Similarly, any commercial, open source, or freeware software requiring registration and licensing will be handled in a similar way. Both licensing systems will run as a single entity through an authentication and authorisation service run through DC and/or Biomax [5], taking into account European GDPR law.
 It is anticipated that the data and tools produced/developed/integrated into the NanoCommons infrastructure, along with any supporting metadata, documentation and source code where applicable, will include:  
@@ -424,7 +424,7 @@ It is anticipated that the data and tools produced/developed/integrated into the
 3.	Data from third parties, and not yet available in existing open databases used under the conditions specified by the data owner and included in a formal agreement.  
 
 
-### 1.6 Expected size of the data <a name="expected_size_of_data"></a>
+### 1.6 Expected size of the data <a name="expected_size_of_the_data"></a>
 
 The data generated/collected through the project’s open calls, and produced through partner and user collaboration, will be in the region of **10s to 100s Terabytes** and will consist of raw, analytical and metadata, and the databases to support the project’s actions. Data access, during and beyond the project’s life cycle, will be facilitated through processes that will ensure that all data will be stored in the project’s centrally managed datastore, i.e. the NanoCommons knowledgebase to be handled by Biomax, which will also make it easily FINDable. The data will be backed up using a number of online accessible mirrors, hosted by different partners, to ensure continuous online time, access and security. Such a process will also ensure future data reusability, even in cases unforeseen from the original data owners/providers. Although such practices put extra effort on project partners, it is considered to be highly significant avoiding the need and difficulty to search for data stored locally when needed. Current partners experience with the implementation of such strategies (e.g. DC are going through this process in the EU-ToxRisk project at the moment, while UoB are back implementing this approach for all our previous project data), will prove essential to streamline and simplify the process as much as possible for other partners.
 
