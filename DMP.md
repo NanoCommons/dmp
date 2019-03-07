@@ -684,10 +684,34 @@ There are many tools around that support and/or provide guidance, including the 
 -	[Data Protection Officer (DPO) Certification course by Maastricht University](https://www.maastrichtuniversity.nl/events/data-protection-officer-dpo-certification-course-7)  
 -	[12 Things to Know About the GDPR and Data Security](https://www.dreamhost.com/blog/what-to-know-about-gdpr-data-security/)  
 -	[Complete guide to GDPR compliance by GDPR.eu, a H2020 funded project](https://gdpr.eu/)  
--	OpenAIRE: a pillar for Open Science in the EU: a Horizon 2020 GRACIOUS Webinar  
--	Ten simple rules for machine-actionable data management plans (preprint) by OpenAIRE  
--	The (GA4GH) Data Use Ontology (DUO)  
--	Science Europe: Practical Guide to the International Alignment of Research Data Management  
+-	[OpenAIRE: a pillar for Open Science in the EU: a Horizon 2020 GRACIOUS Webinar](https://doi.org/10.5281/zenodo.2248862)  
+-	[Ten simple rules for machine-actionable data management plans (preprint)](https://doi.org/10.5281/zenodo.1172672) by OpenAIRE  
+-	[The (GA4GH) Data Use Ontology (DUO)](https://github.com/EBISPOT/DUO)  
+-	[Science Europe: Practical Guide to the International Alignment of Research Data Management](https://www.scienceeurope.org/wp-content/uploads/2018/12/SE_RDM_Practical_Guide_Final.pdf)   
+
+A recent paper looked into the effect of RDM in research, which is worth reading too [REF]. They report three *“key takeaways: (1) Most PIs practice internal data management in order to prevent data loss, to facilitate sharing within the research team, and to seamlessly continue their research during personnel turnover; (2) PIs still have room to grow in understanding specialized concepts such as metadata and policies for use and reuse; (3) PIs may need guidance on practices that facilitate FAIR data, such as using metadata standards, assigning licenses to their data, and publishing in data repositories.”* These provide clear guidance of mistakes not to make yourself.
+
+**Our DMP**  
+The previous sections already outlined the context of our DMP. The vision of NanoCommons is to create a commons of knowledge about nanosafety. The stated mission is to provide FAIR and open access to research data.  One step towards this is provision of advice and support to Users to best practice in development and implementation of DMPs, through provision of the NanoCommons DMP as a model for other NSC and beyond projects on how to manage their data to be FAIR, and also to provide instructions on how best to link their data into the NanoCommons (or other relevant) infrastructure.  This appendix thus helps Users and the wider nanosafety community to:  
+-	Acquire knowledge about DMPs  
+-	Develop their DMP  
+     -	Describe the life cycle of your data  
+     -	Develop where data is stored locally  
+     -	Develop when, how, where data is disseminated  
+-	Discuss their the DMP within NanoCommons to align processes and outputs.   
+
+**Planning the data life cycle**  
+
+Before writing an implementation of a DMP for specific research, it is good to identify the context, particularly when the data life cycle starts and ends for that research project. For example, the data life cycle starts when the experiment is designed: this design determines the amount of data that will be generated, with what experiments, and put requirements on what your electronic lab notebook needs to be able to record (e.g. photos of gels or other scanned material?).
+
+Equally important is to know early on how the data will need to be analysed or integrated with other data sources, and what happens with the data after you are done with it. The end of life of data is often not before long after the projects ends. Top class data will be important for the next 50 years.  
+
+**Planning the research data management**   
+
+The DMP presented in this work helps you with planning your research data management. The effort needed for the planning should not be underestimated; it does not need to be very long, but if taken serious, it allows you to plan everything more efficiently, saving you time in the long run.
+
+One area where time can be saved, is making data FAIR. Particularly making interoperable benefits from planning. For example, ontology annotation of data is easier when the details are fresh in your mind, e.g. about the standard operating procedures. In fact, identifying with identifiers or ontology terms which cell lines, buffers, etc, to use, can best be done when the experiment is designed.
+
 
 
 
