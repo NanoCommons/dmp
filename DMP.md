@@ -321,7 +321,7 @@ An important distinction should be made here between various forms of data to be
 1.	Raw or experimental data  
 2.	Derived (processed or computed) data  
 3.	Data associated with formal publications (literature curated data) (This is typically summarised data, from which the original data cannot really be reconstructed).  
-4.	Interactive data, whereby the data is put in the context of other data. For example, integrated with other data sets, etc.  
+4.	Interactive data, whereby the data is put in the context of other data. For example, integrated with other data sets, etc.      
 The first type of data is basically what comes directly from the instruments utilised in the experimental assays or the computational calculations. Ideally this follows the design of a pre-registration, in which the design of the experiment is published before the experiment is performed (see e.g. the Center of Open Science Pre-registration Challenge: cos.io/prereg/). The second type is data derived from the raw data, and aimed at making comparisons between experimental conditions, drawing conclusions, and other kinds of use and reuse of the data. This data may be stored as spreadsheets, but also in many other formats. 
 
 The third and fourth types of data are more about presentation of the data: the third kind is the presentation in formal journal applications and, for example, presented in tables as PDFs, spreadsheets, or data files. The fourth kind is particularly interesting and important to our project: data must be interactively available to enable reuse. For example, our modelling tasks depend on data to be available in a FAIR way (see below).
