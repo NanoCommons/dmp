@@ -10,9 +10,9 @@
 [Archiving and preservation](#archiving_and_preservation)	   
 [1. Data summary](#data_summary)	  
 [1.1 Purpose of the data collection/generation](#purpose_of_data_collection)	  
-[1.2 Relation to the objectives of the project](#relation_to_the_objective)  
-1.3 Types and formats of data  
-1.3.1 Types of Data  
+[1.2 Relation to the objectives of the project](#relation_to_the_objectives)  
+[1.3 Types and formats of data](#types_and_formats)  
+[1.3.1 Types of Data](#types_of_data)  
 1.3.2 Formats of Data  
 1.4 Reuse of data  
 1.5 Origin of the data  
