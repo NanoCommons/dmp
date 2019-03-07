@@ -40,8 +40,8 @@
 
 
 
-
-## Summary <a name="summary"></a>
+<a name="summary"></a>
+## Summary 
 
 This deliverable presents the initial data management plan (DMP) for the
 starting community research infrastructure NanoCommons (grant no 731032). It is a living
