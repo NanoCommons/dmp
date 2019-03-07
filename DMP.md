@@ -212,6 +212,9 @@ instructions on how to create a DMP. Therefore, additional to this document,
 the plan is stored and updated online using the recommended DMP tool 
 (Figure 1) available at [dmponline.dcc.ac.uk/](dmponline.dcc.ac.uk/) (see also Appendix B).
 
+![](media/image5.png)  
+**Figure 1**. Screenshot of the tool used to create the NanoCommons DMP<sup>1</sup> 
+
 **The NanoCommons Research Data Management Plan**  
 The Data Management Plan (DMP) is essential to ensure the capture of 
 return-on-investment (RoI) for the resources put in by the European Union,
