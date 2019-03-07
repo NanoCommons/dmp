@@ -325,7 +325,20 @@ SOPs developed within NanoMILE and NanoFASE for characterisation of NMs in biolo
 
 Table 1 below summarises the datasets that are potentially being reused within the context of NanoCommons.
 
-*Table 1*: Existing data generated through other NanoSafety Cluster (NSC) projects and other appropriate projects will be used by the NanoCommons project through collaborative efforts or agreements with the relevant project beneficiaries. This data will in most cases be for use to demonstrate the value to users of data sharing (open and FAIR data) and to facilitate the application of the range of modelling tools being developed. They will also be utilised for analysis of reproducibility of the overall method via comparison of different measurement approaches.
+**Table 1**: Existing data generated through other NanoSafety Cluster (NSC) projects and other appropriate projects will be used by the NanoCommons project through collaborative efforts or agreements with the relevant project beneficiaries. This data will in most cases be for use to demonstrate the value to users of data sharing (open and FAIR data) and to facilitate the application of the range of modelling tools being developed. They will also be utilised for analysis of reproducibility of the overall method via comparison of different measurement approaches.
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description of Data</th> 
+    <th>Purpose in NanoCommons</th>
+  </tr>
+  <tr>
+    <td>NanoMILE</td>
+    <td>Characterisation data and calculated descriptors for up to >75 different NMs via the NanoMILE NMs library. Data identifying ENM property factors important for hazard, and representative ENMs that range in those properties.</td>
+    <td>To provide baseline characterisation data for a wide panel of NMs, that will be used to parameterise the domain of applicability of the various computational models, as well as for benchmarking of the newly developed models and tools.   </
+  </tr>
+</table>
 
 
 ### 1.5 Origin of the data <a name="origin_of_data"></a>
