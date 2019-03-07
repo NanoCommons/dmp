@@ -8,9 +8,9 @@
 [Data set description](#data_set_description)  
 [Data sharing](#data_sharing)  
 [Archiving and preservation](#archiving_and_preservation)	   
-1. Data summary	  
-1.1 Purpose of the data collection/generation	  
-1.2 Relation to the objectives of the project  
+[1. Data summary](#data_summary)	  
+[1.1 Purpose of the data collection/generation](#purpose_of_data_collection)	  
+[1.2 Relation to the objectives of the project](#relation_to_the_objective)  
 1.3 Types and formats of data  
 1.3.1 Types of Data  
 1.3.2 Formats of Data  
@@ -232,9 +232,9 @@ These formal expectation set aside, the project has quite some liberty in settin
 
 
 
-## 1. Data summary
+## 1. Data summary <a name="data_summary"></a>
 
-### Purpose of the data collection/generation
+### 1.1 Purpose of the data collection/generation <a name="purpose_of_data_collection"></a>
 
 The data collected/generated within the NanoCommons Project aims to
 provide a harmonised and streamlined workflow covering all aspects 
@@ -263,7 +263,7 @@ and can also promote cross-project/field cooperation and translational
 research. 
 
 
-### Relation to the objectives of the project
+### Relation to the objectives of the project <a name="relation_to_the_objectives"></a>
 
 ### Types and formats of data
 
