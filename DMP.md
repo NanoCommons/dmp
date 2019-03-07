@@ -19,12 +19,9 @@
 [1.6 Expected size of the data](#expected_size_of_the_data)  
 [1.7 Utility of data and models](#utility_of_data_and_models)     
 [2. FAIR data](#fair_data)  
-[2.1 Making data findable, including provisions for metadata](#making_data_findable)
-
-[2.1.1 Making data discoverable, including provisions for metadata](#making_data_discoverable)
-
-[2.1.2 Identifiers and naming conventions](#identifiers)  
-
+[2.1 Making data findable, including provisions for metadata](#making_data_findable)      
+[2.1.1 Making data discoverable, including provisions for metadata](#making_data_discoverable)    
+[2.1.2 Identifiers and naming conventions](#identifiers)    
 [2.2 Making data openly accessible](#making_data_openly_accessible)    
 [2.2.1 Open Data](#open_data)    
 [2.2.2 Free Access](#free_access)    
