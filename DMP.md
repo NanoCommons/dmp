@@ -458,12 +458,12 @@ How these principles are implemented, how they are used, is totally up to the us
 
 ### 2.1 Making data findable, including provisions for metadata <a name="making_data_findable"></a>
 
--	Outline the discoverability of data (metadata provision)  
--	Outline the identifiability of data and refer to standard identification mechanism. Do you make use of persistent and unique identifiers such as Digital Object Identifiers?  
--	Outline naming conventions used  
--	Outline the approach towards search keyword  
--	Outline the approach for clear versioning  
--	Specify standards for metadata creation (if any). If there are no standards in your discipline describe what metadata will be created and how   
+-	*Outline the discoverability of data (metadata provision)*  
+-	*Outline the identifiability of data and refer to standard identification mechanism. Do you make use of persistent and unique identifiers such as Digital Object Identifiers?*  
+-	*Outline naming conventions used*  
+-	*Outline the approach towards search keyword*  
+-	*Outline the approach for clear versioning*  
+-	*Specify standards for metadata creation (if any). If there are no standards in your discipline describe what metadata will be created and how*   
 
 #### 2.1.1 Making data discoverable, including provisions for metadata <a name="making_data_discoverable"></a>
 
