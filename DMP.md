@@ -290,8 +290,7 @@ in the correct format and readily available to be implemented and used
 for analysis via the tools developed within the project. At the same 
 time, data harmonisation will allow data interoperability and the 
 combination of different datasets (from a range of sources, as long as 
-the conditions for data sharing are compatible with the needs of NanoCommons
-- see Appendix A for details), where applicable and following agreement of 
+the conditions for data sharing are compatible with the needs of NanoCommons - see Appendix A for details), where applicable and following agreement of 
 the respective owners, that will allow more complex analyses to be performed 
 and can also promote cross-project/field cooperation and translational 
 research. 
