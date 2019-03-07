@@ -192,7 +192,7 @@ instructions on how to create a DMP. Therefore, additional to this document,
 the plan is stored and updated online using the recommended DMP tool 
 (Figure 1) available at dmponline.dcc.ac.uk/ (see also Appendix B).
 
-**The NanoCommons Research Data Management Plan**
+**The NanoCommons Research Data Management Plan**  
 The Data Management Plan (DMP) is essential to ensure the capture of 
 return-on-investment (RoI) for the resources put in by the European Union,
 via the EC’s H2020 research framework. An RDM strategy does not describe 
@@ -212,7 +212,27 @@ includes, but is not limited to, experimentally measured data and
 computed data via modelling or statistics, including that produced 
 by TA Users as part of their access provision.
 
-## Data summary
+#### Expectations
+
+The NanoCommons DoA describes the goal of this deliverable (due at Month 6):
+*A specific strategy to provide open access to data will be developed according to the recommendations of the Horizon2020 ORD Pilot. The strategy will include the development of initial and final FAIR DMPs (M6 and M48 respectively), which will outline and support implementation of procedures to ensure full access to data incorporated within NanoCommons.*
+
+However, a second section of our DoA is essential, and is part of our agreement (contract) with the EC, which describes in more detail how NanoCommons is expected to provide access to third-parties of data produced within NanoCommons (emphasize ours):
+
+*29.3 Open access to research data
+Regarding the digital research data generated in the action (‘data’), the beneficiaries must:   
+  a.	deposit [it] in[to] a research data repository and take measures to make it possible for third parties to access, mine, exploit, reproduce and disseminate — free of charge for any user — the following:  
+    i.	the data, including associated metadata, needed to validate the results presented in scientific publications as soon as possible;  
+    ii.	other data, including associated metadata, as specified and within the deadlines laid down in the 'data management plan';  
+  b.	provide information — via the repository — about tools and instruments at the disposal of the beneficiaries and necessary for validating the results (and — where possible — provide the tools and instruments themselves).*
+  
+*This does not change the obligation to protect results in Article 27, the confidentiality obligations in Article 36, the security obligations in Article 37 or the obligations to protect personal data in Article 39, all of which still apply. As an exception, the beneficiaries do not have to ensure open access to specific parts of their research data if the achievement of the action's main objective, as described in Annex 1, would be jeopardised by making those specific parts of the research data openly accessible. In this case, the DMP must contain the reasons for not giving access.*
+
+These formal expectation set aside, the project has quite some liberty in setting our own expectations, and these may even be different from one partner to another.  All partners have their legal obligations and the NanoCommons project is a collaboration into which we all invest and from which all partners will harvest knowledge and data. As such, enabling each other is our best bet to result in a successful innovation project that has maximum impact for partners and for the wider nanosafety research and nanoinformatics communities. Clear mutual expectations are an essential component of that.
+
+
+
+## 1. Data summary
 
 ### Purpose of the data collection/generation
 
