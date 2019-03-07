@@ -581,14 +581,36 @@ NanoCommons envisages to also link to its database high quality data from other 
 
 QA processes for data generated/collected by NanoCommons will be automatically implemented into the experimental workflows developed prior to any offered service and will be made available to all partners using online lab-books. The checks will include the evaluation of the experimental protocols used or to be used, reproducibility, the tools source code and abilities and the presence of potential gaps in datasets. 
 
-A similar approach needs to be implemented for pre-existing datasets to be imported into the NanoCommons database. In these cases, and especially for the curation of already published peer-reviewed data, a manual curation process will most likely have to be implemented that will also mean that the curators will decide on the level of data quality. For other datasets, tools performing automated QA analysis and (pre)processing (e.g. arrayanalysis.org/ and github.com/BiGCAT-UM) and QA and analysis of sequencing data pipelines developed by the Consortium (e.g. Maastricht’s University RNA seq and MeDIP seq) will be implemented and made available for use. 
+A similar approach needs to be implemented for pre-existing datasets to be imported into the NanoCommons database. In these cases, and especially for the curation of already published peer-reviewed data, a manual curation process will most likely have to be implemented that will also mean that the curators will decide on the level of data quality. For other datasets, tools performing automated QA analysis and (pre)processing (e.g. [arrayanalysis.org/](arrayanalysis.org/) and [github.com/BiGCAT-UM](github.com/BiGCAT-UM)) and QA and analysis of sequencing data pipelines developed by the Consortium (e.g. Maastricht’s University RNA seq and MeDIP seq) will be implemented and made available for use. 
 
 
+## 3. Allocation of resources <a name="allocation_of_resources"></a>  
+
+*Explain the allocation of resources, addressing the following issues:*   
+-	*Estimate the costs for making your data FAIR. Describe how you intend to cover these costs*   
+-	*Clearly identify responsibilities for data management in your project*   
+-	*Describe costs and potential value of long term preservation*  
+
+The Project already runs a survey that tries to monitor the awareness of the nanosafety community on FAIR data and aims to promote it through targeted workshops. NanoCommons aims to use data and tools sources, which are already FAIR and will demand no extra cost for the project. In the case where a non-FAIR source is required to cover the project’s needs the relevant partners will assume the cost of implementation and Users may be supported through the NanoCommons periodic calls.
+
+It is the intention to minimise the costs by using free-to-use data repositories and dissemination facilities to achieve GREEN open access, for example OpenAIRE, the UoB and NERC Open Research Archives etc.  Some partners have foreseen and budgeted funds to get a few high impact papers into GOLD open access journals where the increased impact from this would warrant the expense.
+
+The responsibility for collation and entry into the NanoCommons knowledge warehouse / database platform of the partner datasets lies with the individual partners.  Their interlinking with the ontology the models and tools that are being developed for offering through TA will be facilitated (and resourced) via WPs 1-4 (JRA).  All partners developing tools have additional budgets for integration of their tools into NanoCommons for provision of TA. 
+
+The responsibility and budget for developing and managing the web based structure (including aiding partners with data entry and uploading) of the NanoCommons infrastructure is held by DC, Biomax and NovaM, and D4.1 will describe the overall vision for the infrastructure (hardware, software, integration etc.) and the responsibilities of each partner towards the delivery of the NanoCommons research infrastructure.  
+
+**Transnational Access (TA) to Knowledge Management and computational Tools**   
+Within NanoCommons, funded access will be provided via short (1 month) or longer term (3-6 month) projects to support users with one of the following activities:  
+Knowledge Base and Data Mining  
+Processing and Analysis services  
+Predictive nanoToxicology   
+Risk assessment visualisation and reporting  
+Nanoinformatics workflows for nanosafety experiments / best practice workflows.  
+
+All TA will be offered via **centralised calls** for User Access run on a 6-monthly basis.  Calls for access will include micro-projects (up to 1 month Access), mini-projects (up to 6 months of access) and workflow Access to include site-visits to expert labs and support in establishment of nanoinformatics workflows to underpin excellence in experimental design.  A pre-requisite for TA projects related to TA modality will be that data utilised will be made open access and FAIR via NanoCommons research infrastructure via the TA funding held by the partners to support the TA Users.
 
 
-
-
-## 3. Allocation of resources <a name="allocation_of_resources"></a>
+**Figure 2**. Flow of data in the NanoCommons project.
 
 ## 4. Data security <a name="data_security"></a>
 
