@@ -634,10 +634,39 @@ No ethical issues arise from the project overall, or the data management aspects
 
 Thus, we do not anticipate any ethical or legal issues relating to the datasets generated as part of ACEnano project that would impact on data sharing. No personal data will be collected and so informed consent for data sharing and long term preservation of such datasets is not required.
 
+## Other 
+
+- *Refer to other national/funder/sectorial/departmental procedures for data management that you are using (if any)*  
+
+As part of University of Birmingham’s commitment to ensuring FAIR and Open data, all research active staff (Postdoctoral fellows, PhD students) are expected to prepare DMPs for their own data, as per the [University's Research Data Management Policy](https://intranet.birmingham.ac.uk/as/libraryservices/library/research/rdm/Policies/Research-Data-Management-Policy.aspx). The UoB data management policy defines research data as “the evidence that underpins the answer to the research question, and can be used to validate findings regardless of its form.”  Thus, data covers quantitative and qualitative statements, raw data from measurements and derived data – either cleaned or extracted from a researcher’s primary dataset or derived from an existing source.  
+
+A detailed set of guidance on preparation of DMPs available via the UoB DMP site: [intranet.birmingham.ac.uk/as/libraryservices/library/research/rdm/Data-management-plans.aspx](intranet.birmingham.ac.uk/as/libraryservices/library/research/rdm/Data-management-plans.aspx)  
+
+NanoCommons will utilise the following aspects of the UoB data storage services:    
+-	Research Data Store (RDS): The RDS is a central storage service for ‘active’ research data. It is highly resilient and is hosted in two data centres on campus. Space on the RDS is allocated to projects and managed accordingly.  Up to 3TB of storage will be allocated by default to the Project though additional capacity may be purchased.  
+-	BEAR DataShare: BEAR DataShare is a file synchronisation and sharing service provided by IT Services. The service allows users to securely save and sync files with colleagues and partners anywhere in the world, from any device. It provides 25GB storage capacity per user.  
 
 
+## Final remarks <a name="final_remarks"></a>   
 
-## Final remarks <a name="final_remarks"></a>
+**A living DMP**  
+The core of the RDM will be fixed: where our DoA or law outlines specific elements, these elements will be core part of the RDM and be pretty static. That said, over four years, the laws will changes, which will affect our plan. Second, to achieve maximal impact of our project, we have to be able to aptly respond to changes in the field.   
+
+**Important Laws**  
+European law changes all the time, and while not too fast, NanoCommons spans four years and the data outlives the project for another 10-20 years. For that reason, it is important to realize what laws apply to which kinds of data. Important laws to keep in mind include:  
+-	Copyright laws   
+-	Privacy laws  
+-	GDPR law  
+
+Both affect our work. Organizations like the ELIXIR, 
+[Electronic Frontier Foundation](https://www.eff.org/), and 
+[Creative Commons](https://creativecommons.org/) 
+are very knowledgeable in the field, and so do several members of the European Parliament, in particular 
+[Julia Reda](https://juliareda.eu/en/). 
+IT journals also provide information, like the German C’t with 
+[Welche Änderungen die neue EU-Datenschutz-Regulierung in Deutschland bringen wird](https://www.heise.de/select/ct/2016/09/1461574428497459).
+ 
+
 
 ## References <a name="references"></a>
 
