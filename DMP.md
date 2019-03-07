@@ -626,6 +626,17 @@ Data sharing and transfer among persons or partners will be, where appropriate, 
 
 ## 5. Ethical aspects <a name="ethical_aspects"></a>
 
+- *To be covered in the context of the ethics review, ethics section of DoA and ethics deliverables. Include references and related technical aspects if not covered by the former*
+
+The ethical aspects of the project will cover all aspects of the NanoCommons data lifecycle, will be included in detail within Work Package’s 21 deliverables and will be strictly followed by all NanoCommons partners and infrastructure users. 
+
+No ethical issues arise from the project overall, or the data management aspects, since the focus of the project is on making existing datasets accessible rather than generation of new data. However, a strong effort will be made to ensure that ethical information regarding the datasets integrated into NanoCommons will have as a minimum a statement regarding the ethical approvals in place at the time the data were generated. Where data are generated, for example, through application of the modelling and other tools developed and made available to the community via Transnational Access, these will be generated within thee ethical framework of NanoCommons, and as above will have a clear declaration regarding the ethical approvals associated with any underlying datasets.  
+
+Thus, we do not anticipate any ethical or legal issues relating to the datasets generated as part of ACEnano project that would impact on data sharing. No personal data will be collected and so informed consent for data sharing and long term preservation of such datasets is not required.
+
+
+
+
 ## Final remarks <a name="final_remarks"></a>
 
 ## References <a name="references"></a>
