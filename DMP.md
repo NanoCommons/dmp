@@ -524,6 +524,29 @@ This principles prescribes that data must be sufficiently annotated such that pe
 
 The NanoCommons objectives are to make the data generated/collected and the tools developed during the project’s lifecycle as interoperable as possible and to promote dataset combination and translational research. This means that the acquired data needs to be captured using a harmonised approach. To achieve that the project will use common data curation templates based on the ISA-TAB extended file format, which is an accepted ASTM standard (ASTM International E2909-13), are dynamic and flexible and can be modified accordingly to accommodate all User and project needs. The use of best practice examples (e.g. [diXa](http://www.dixa-fp7.eu/) and [ToxBank](https://toxbank.net/)) may be used for template creation, as well as the NIKC data curation template, which is especially versatile, treats experimental protocols and instruments as data points and can accommodate all fields of nanosafety research. 
 
+Another important aspect of data harmonisation is the use of a vocabulary (i.e. ontology) that will employ common agreed definitions for the terms used by all aspects of nanosafety research and will allow both qualitative and quantitative data combination and reusability. As a result, the mid to long-term plan of NanoCommons is to create a single nano-wide ontology implementing already existing and established ontologies (e.g. 
+[OBI](http://obi-ontology.org/), 
+[ChEBI](https://www.ebi.ac.uk/chebi/), 
+[PATO](https://www.ebi.ac.uk/ols/ontologies/pato), 
+[UO](https://bioportal.bioontology.org/ontologies/UO), 
+[NCIT](https://bioportal.bioontology.org/ontologies/NCIT), 
+[EFO](https://www.ebi.ac.uk/efo/), 
+[OAE](http://www.oae-ontology.org/), 
+[eTOX](http://www.etoxproject.eu/index.html), 
+[eNanoMapper](http://www.enanomapper.net/ontology), 
+[MPATH](https://bioportal.bioontology.org/ontologies/MPATH), 
+etc; see Hastings et al., 2015), which will be linked and integrated to the NanoCommons ontology. This common vocabulary will be used for both the data and metadata curation irrespective of the file format the data is being stored.
+
+Data and tools storage and accessibility is also going to be addressed through the use of multiple backups and mirrors that will be accessible through the NanoCommons  APIs. These will also include an appropriate query and interoperability system that will allow the retrieval and combination of publicly available and disparate datasets, without the need for individual search and subsequent combination. The implementation of tools within the NanoCommons Knowledge Commons and databases will also allow the analysis of the retrieved combined datasets along with the appropriate quality control checks to identify whether further analysis is possible and meaningful.
+
+In any case, NanoCommons will provide the necessary training resources and information in a simple and understandable way, targeted to non-informatics experts, and aims to produce online training courses that will allow further data and metadata exploitation. The interoperability work will be based on already available APIs like the 
+[OpenTox](http://www.opentox.net/opentox-api),
+which was developed to cover the field of QSAR-based predictive toxicology (for chemicals / small molecules rather than nanomaterials) and has multiple functionalities (e.g. dataset generation, model building, prediction, validation), 
+[Open PHACTS APIs](https://dev.openphacts.org/) that are able to handle data collection and sharing and open database access APIs like 
+[diXa](http://www.dixa-fp7.eu/), 
+[ToxBank](https://toxbank.net/), 
+[EGA](https://www.ebi.ac.uk/ega/home), and 
+[PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 
 
 #### 2.3.1 Supported data exchange formats <a name="supported_data_exchange"></a>
