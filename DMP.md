@@ -125,8 +125,8 @@ TA - Transnational Access
 UO - Units of Measurement Ontology  
 WWTP - Working Party on Manufactured Nanomaterials  
   
-
-## Introduction <a name="introduction"></a>
+<a name="introduction"></a>
+## Introduction 
 
 The European Commission (EC) is running a flexible pilot under Horizon 2020
 called the Open Research Data Pilot (ORD Pilot). The ORD pilot aims to improve
@@ -160,7 +160,8 @@ available to other nanosafety and nanoinformatics projects to reuse, and all
 updates will be announced widely to the relevant communities (including
 OpenRiskNet). 
 
-### Data set description <a name="data_set_description"></a>
+<a name="data_set_description"></a>
+### Data set description 
 
 This section refers to what kinds of data NanoCommons will collect and/or generate, and to whom these data might be useful later. The data set refers to: 
 -	The data and metadata needed to validate results in scientific publications;  
@@ -176,7 +177,8 @@ Further, these questions are addressed in order to determine the potential reuse
 
 The metadata provided with the datasets answers such questions to enable data to be found and understood, ideally according to the particular standards applied. Finally the metadata, documentation and standards will help in making the data FAIR (Findable, Accessible, Interoperable, and Reusable) [REF,REF,REF].  
 
-### Data sharing <a name="data_sharing"></a>
+<a name="data_sharing"></a>
+### Data sharing 
 
 According to the ORD Pilot programme, by default as much of the resulting data
 as possible should be archived as Open Access. Therefore legitimate reasons for
@@ -185,7 +187,8 @@ protection or IPR agreements should not be compromised in any way, and data
 sharing should be done responsibly. Therefore, the DMP describes any ethical or
 legal issues that can have an impact on data sharing.
 
-### Archiving and preservation <a name="archiving_and_preservation"></a>
+<a name="archiving_and_preservation"></a>
+### Archiving and preservation 
 
 To ensure that publicly funded research outputs can have a positive impact on
 future research, for policy development, and for societal change it is important
@@ -254,9 +257,8 @@ However, a second section of our DoA is essential, and is part of our agreement 
 
 These formal expectation set aside, the project has quite some liberty in setting our own expectations, and these may even be different from one partner to another.  All partners have their legal obligations and the NanoCommons project is a collaboration into which we all invest and from which all partners will harvest knowledge and data. As such, enabling each other is our best bet to result in a successful innovation project that has maximum impact for partners and for the wider nanosafety research and nanoinformatics communities. Clear mutual expectations are an essential component of that.
 
-
-
-## 1. Data summary <a name="data_summary"></a>  
+<a name="data_summary"></a>
+## 1. Data summary   
 
 *Summary of the data addressing the following issues:*  
 -	*State the purpose of the data collection/generation*  
@@ -267,8 +269,8 @@ These formal expectation set aside, the project has quite some liberty in settin
 -	*State the expected size of the data (if known)*
 -	*Outline the data utility: to whom will it be useful*
 
-
-### 1.1 Purpose of the data collection/generation <a name="purpose_of_data_collection"></a>
+<a name="purpose_of_data_collection"></a>
+### 1.1 Purpose of the data collection/generation 
 
 The data collected/generated within the NanoCommons Project aims to
 provide a harmonised and streamlined workflow covering all aspects 
@@ -295,8 +297,8 @@ the respective owners, that will allow more complex analyses to be performed
 and can also promote cross-project/field cooperation and translational 
 research. 
 
-
-### 1.2 Relation to the objectives of the project <a name="relation_to_the_objectives"></a>  
+<a name="relation_to_the_objectives"></a>  
+### 1.2 Relation to the objectives of the project 
 NanoCommons is driven by the European nanosafety, nanomedicine and emerging materials research and regulatory communities need for an e-infrastructure providing a standardised, reproducible and interoperable way to access all available data, knowledge and analysis and facilitate the application of nanoinformatics and modelling tools that have been adapted and verified as suitable for application to nanomaterials. 
 
 More than 10 years of nanosafety research has delivered tangible insights into the key science and policy required for the development of safe nano-enabled products. However, this knowledge has yet to be systematised, or made “FAIR”, in a manner that allows:    
@@ -314,9 +316,11 @@ NanoCommons will facilitate:
 
 NanoCommons is designed to integrate the Knowledge infrastructure for risk assessment of novel and emerging materials on a European and international scale, and provide (remote) access to data, data mining, modelling and risk assessment tools to all European researchers, from academia and industry, as well as regulators, ensuring their optimal use and joint development.
 
-### 1.3 Types and formats of data <a name="types_and_formats"></a>
+<a name="types_and_formats"></a>
+### 1.3 Types and formats of data 
 
-#### 1.3.1 Types of Data <a name="types_of_data"></a> 
+<a name="types_of_data"></a> 
+#### 1.3.1 Types of Data
 An important distinction should be made here between various forms of data to be generated and utilized within NanoCommons:  
 1.	Raw or experimental data  
 2.	Derived (processed or computed) data  
@@ -332,8 +336,8 @@ The Open Science expectations around data basically apply to all four kinds of d
 **Data Life Cycle**  
 The Data Life Cycle includes the entire process through which data is generated, acquired, analysed, manipulated and made available through publications and/or data repositories along with the metadata produced during the entire process. The fourth kind of data presented in the previous paragraph can also be seen as an overview of the life cycle of data. However, it should be noted that the availability of data does not constitute the start of the cycle: instead, the design of an experiment is a more appropriate start - see Appendix B for further details of the data life cycle as utilised in NanoCommons.
 
-
-#### 1.3.2 Formats of Data <a name="formats_of_data"></a> 
+<a name="formats_of_data"></a> 
+#### 1.3.2 Formats of Data 
 
 The NanoCommons project aims to mainly use the following 3 data formats, which are broadly accepted by different subgroups of the nanoinformatics community. Each has advantages and disadvantages, which NanoCommons aims to overcome through suitable modifications, that will be documented in full detail within the subsequent deliverables and published metadata. In any case, the nature of the NanoCommons project makes it possible that more data formats will be implemented to facilitate the different needs of the e-infrastructure users, and will be added to subsequent versions of this document as the needs arise.
 
@@ -352,7 +356,8 @@ The NanoCommons project aims to mainly use the following 3 data formats, which a
 
 In all cases, the usage of a common ontology for data description and curation can guarantee that the both the data and produced metadata can be understood by both users and machines and can be automatically transferred between services.
 
-### 1.4 Reuse of data <a name="reuse_of_data"></a>
+<a name="reuse_of_data"></a>
+### 1.4 Reuse of data 
 
 NanoCommons aims to use the data collected/generated through the project, as well as high quality curated peer-reviewed published data. In terms of tools, the project will identify and use already existing tools (modelling, Quantitative Structure-Activity Relationships (QSARs), Omics etc.) and will work to improve them further using the data collected/generated through the project. The NanoCommons project also aims to harmonise, combine and analyse existing datasets to improve and refine scientific findings and conclusions, promote cross-project/field collaboration and promote translational research. 
 
@@ -415,7 +420,8 @@ Table 1 below summarises the datasets that are potentially being reused within t
          
 </table>
 
-### 1.5 Origin of the data <a name="origin_of_the_data"></a>    
+<a name="origin_of_the_data"></a>    
+### 1.5 Origin of the data 
 
 The data sources and offered tools through the project will take into account the original licences for the versions integrated into the NanoCommons infrastructure, if applicable. For data and tools created directly through the project, a respective licensing system will be developed. Similarly, any commercial, open source, or freeware software requiring registration and licensing will be handled in a similar way. Both licensing systems will run as a single entity through an authentication and authorisation service run through DC and/or Biomax [5], taking into account European GDPR law.
 It is anticipated that the data and tools produced/developed/integrated into the NanoCommons infrastructure, along with any supporting metadata, documentation and source code where applicable, will include:  
@@ -423,8 +429,8 @@ It is anticipated that the data and tools produced/developed/integrated into the
 2.	Open Source data, tools and models, used the license mentioned by the owners;  
 3.	Data from third parties, and not yet available in existing open databases used under the conditions specified by the data owner and included in a formal agreement.  
 
-
-### 1.6 Expected size of the data <a name="expected_size_of_the_data"></a>
+<a name="expected_size_of_the_data"></a>
+### 1.6 Expected size of the data 
 
 The data generated/collected through the project’s open calls, and produced through partner and user collaboration, will be in the region of **10s to 100s Terabytes** and will consist of raw, analytical and metadata, and the databases to support the project’s actions. Data access, during and beyond the project’s life cycle, will be facilitated through processes that will ensure that all data will be stored in the project’s centrally managed datastore, i.e. the NanoCommons knowledgebase to be handled by Biomax, which will also make it easily FINDable. The data will be backed up using a number of online accessible mirrors, hosted by different partners, to ensure continuous online time, access and security. Such a process will also ensure future data reusability, even in cases unforeseen from the original data owners/providers. Although such practices put extra effort on project partners, it is considered to be highly significant avoiding the need and difficulty to search for data stored locally when needed. Current partners experience with the implementation of such strategies (e.g. DC are going through this process in the EU-ToxRisk project at the moment, while UoB are back implementing this approach for all our previous project data), will prove essential to streamline and simplify the process as much as possible for other partners.
 
@@ -434,8 +440,8 @@ The data to be made directly publicly accessible is the description of the model
 
 A key aspect of the NanoCommons’ approach is alignment with, and utilisation of the resources being developed in the [OpenRiskNet e-infrastructure](https://openrisknet.org/), coordinated by NanoCommons partner DC and in which several NanoCommons partners are also involved (UoB, UM, are partners, Biomax is an associate partner). A key aspect of OpenRiskNet, which will also be adopted by NanoCommons, is not to combine data from different sources into one data warehouse but rather to access the data from its original source and use the interoperability layer added to the data services to harmonise them. In this way, no additional capacity for data storage is needed for data external to the NanoCommons. However, some of the data considered for integration is not yet available in open-accessible databases or these don’t comply with the FAIR principles. In such cases, NanoCommons will work with the data owner (who can apply to become a NanoCommons User) to  agree the term of access and reuse.  Only in cases where the terms comply with NanoCommons policies (FAIR and Open) will budget from the project be expended to integrate and communicate with the dataset.  Appendix A outlines our current RDM Copyright, License, and Waiver Clearance Form, which all users and data integrators will have to sign prior to putting their data into the NanoCommons system.
 
-
-### 1.7 Utility of data and models <a name="utility_of_data_and_models"></a>
+<a name="utility_of_data_and_models"></a>
+### 1.7 Utility of data and models 
 
 FAIR data are at the core of NanoCommons vision and philosophy. As a result, the project aims to make the data, tools and services produced, developed and offered by the project accessible and beneficial to all stakeholder of the nanosafety community (researchers, modellers, regulators, industry and especially SMEs). To achieve that, the project’s outputs need to have the appropriate metadata and unique identifiers, which will make them “Findable” and raw data and metadata should be stored in a data repository in formats that are Accessible and understandable by both humans and machines.  In parallel, the data and metadata formats need to be harmonised to make them Interoperable and Reusable through a straightforward tiered licensing system. For this reason NanoCommons will create streamlined and user-friendly data management process, addressing the whole data life cycle and is provided to the community (Users) which will provide the offered services under a complete package of easily accessible, standardised and harmonised services in order to be able to produce high quality and complete scientific results and conclusions.
  
@@ -449,14 +455,15 @@ Potential beneficiaries of the data, tools and the NanoCommons infrastructure:
 -  Consumers, through the interoperability of all of the above that will offer them new safer products containing nanomaterials.  
 
 
-
-## 2. FAIR data <a name="fair_data"></a>
+<a name="fair_data"></a>
+## 2. FAIR data 
 
 The FAIR principles refer to a number of features that data, software, etc. should have to maximize their value and societal impact [5]. They are grouped into four categories, as given before. Each of the four aspects of the principles will see a different way it is implemented for that kind of data. For example, in some cases, raw data may not be findable to people outside NanoCommons until the primary publications are completed, and interoperability mostly applies to metadata. For data associated with formal publications it must be publicly available and interoperable at a very high level to benefit the community. Similarly, when computational approaches are taken into account, FAIR raw data is essential for any beneficial scientific effects.
 
 How these principles are implemented, how they are used, is totally up to the user. They have been defined quite broadly so that apply to different kinds of scientific output. This has led to confusion how to make your data FAIR. In fact, it is not a black-and-white situation, but there are many shades of grey. The point is that data should be as FAIR as possible. This in turn suggests there is a scale of FAIR-ness, and metrics have been proposed [6].
 
-### 2.1 Making data findable, including provisions for metadata <a name="making_data_findable"></a>
+<a name="making_data_findable"></a>
+### 2.1 Making data findable, including provisions for metadata 
 
 -	*Outline the discoverability of data (metadata provision)*  
 -	*Outline the identifiability of data and refer to standard identification mechanism. Do you make use of persistent and unique identifiers such as Digital Object Identifiers?*  
@@ -465,7 +472,8 @@ How these principles are implemented, how they are used, is totally up to the us
 -	*Outline the approach for clear versioning*  
 -	*Specify standards for metadata creation (if any). If there are no standards in your discipline describe what metadata will be created and how*   
 
-#### 2.1.1 Making data discoverable, including provisions for metadata <a name="making_data_discoverable"></a>
+<a name="making_data_discoverable"></a>
+#### 2.1.1 Making data discoverable, including provisions for metadata
 
 This principle prescribes that the output must be findable. That is, effort must be made to make sure people can find the data. To be findable, the principles specify:
 - *F1. (meta)data are assigned a globally unique and persistent identifier*  
@@ -483,8 +491,8 @@ As a result, NanoCommons aims to develop a data and tools repository system whic
 
 To achieve that harmonised output, NanoCommons will use a joint workflow system implemented in online lab-books using the NanoCommons ontology, which will allow continuous sharing of protocols, data and tools between project partners and users. This will allow the data collected/generated and the tools developed through NanoCommons to be stored in data repositories using a common format and will also make the metadata creation faster. In all cases, the created metadata will be assigned with a unique identifier and version number so it can be easily findable and citable from potential users. 
 
-
-#### 2.1.2 Identifiers and naming conventions <a name="identifiers"></a>
+<a name="identifiers"></a>
+#### 2.1.2 Identifiers and naming conventions 
 
 Of particular importance are the use of identifiers here. As many aspects of the experiments should be linked to identifiers, including but not limited to: ENMs, cell lines, bioassays, species, genes, proteins, and metabolites. Identifiers should come from internationally recognized databases or resources whenever possible. For example, gene identifiers should be ideally from Ensembl or NCBI Gene, or from the HGNC for human genes. For proteins UniProt would be a good resource. For nanomaterials, the proper JRC identifiers (JRCNMxxx) must be used (the NM-xxx only apply for very old batches). If nanomaterials do not have globally unique identifier, the NanoCommons project can provide unique identifiers. Ontology identifiers are first class supported identifiers.
 
@@ -494,8 +502,8 @@ Similar to the idea of pre-registration of clinical trials, each project should 
 ##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination    
 To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [REF].  
 
-
-### 2.2 Making data openly accessible <a name="making_data_openly_accessible"></a>
+<a name="making_data_openly_accessible"></a>
+### 2.2 Making data openly accessible 
 
 -	*Specify which data will be made openly available? If some data is kept closed provide rationale for doing so*  
 -	*Specify how the data will be made available*  
@@ -509,11 +517,13 @@ This principle prescribes that data must be accompanied with metadata that expla
       -	*A1.2 the protocol allows for an authentication and authorization procedure, where necessary*  
 -	*A2. metadata are accessible, even when the data are no longer available.*  
 
-#### 2.2.1 Open Data <a name="open_data"></a>  
+<a name="open_data"></a>
+#### 2.2.1 Open Data   
 
 The aforementioned section from our DoA briefly outlines the git of the H2020 Open Data pilot: we give access to third parties to our data. In fact, the section is quite close to the core rights involved in Open Science, the rights to use/reuse, modify, and reshare knowledge. At the same time it does set some reasonable limits: for example, where there are good reasons to not make data available (e.g. because of privacy aspect of human data), this is acceptable but must be explicitly reasoned for, and this must be documented. However, this guidance leaves plenty of room for us to implement our approach, and this leaves plenty of options and decision to be made.
 
-#### 2.2.2 Free Access <a name="free_access"></a>
+<a name="free_access"></a>
+#### 2.2.2 Free Access 
 
 One controversial aspect of the current implementation of Open Access is to provide free access, free as in without cost to the user. Of course, hosting data is not without cost, but NanoCommons aims to achieve the sustainability and accessibility of data and tools beyond the project’s lifetime.
 
@@ -528,8 +538,8 @@ But generally it is accepted that hosting raw can be covered in kind by existing
 
 Guidance on selecting repositories can be found in [Science Europe’s Practical Guide to the International Alignment of Research Data Management](https://www.scienceeurope.org/wp-content/uploads/2018/12/SE_RDM_Practical_Guide_Final.pdf).  
 
-
-### 2.3 Making data interoperable <a name="making_data_interoperable"></a>
+<a name="making_data_interoperable"></a>
+### 2.3 Making data interoperable 
 
 -	*Assess the interoperability of your data. Specify what data and metadata vocabularies, standards or methodologies you will follow to facilitate interoperability*  
 -	*Specify whether you will be using standard vocabulary for all data types present in your data set, to allow inter-disciplinary interoperability? If not, will you provide mapping to more commonly used ontologies?*  
@@ -565,8 +575,8 @@ which was developed to cover the field of QSAR-based predictive toxicology (for 
 [EGA](https://www.ebi.ac.uk/ega/home), and 
 [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 
-
-#### 2.3.1 Supported data exchange formats <a name="supported_data_exchange"></a>
+<a name="supported_data_exchange"></a>
+#### 2.3.1 Supported data exchange formats 
 
 It is recommended to discuss with NanoCommons when deciding the proper data exchange format. It is essential to keep the data life cycle in mind here. For long term data storage a format is preferred that is self-contained and self-explanatory. For short term data exchange, for example, to get data indexed in a search engine more application-oriented format may be more appropriate. These formats do not exclude each other, but are rather complementary. In all cases it is essential to explore if convertion or expert to some format causes data loss.
 
@@ -577,8 +587,8 @@ For long term data storage the ISA formats may be of interest. Options are then 
 
 Of course, for the many omics data types, domain specific formats are recommended, along with deposition of Open Data in domain repositories with those formats.
 
-
-### 2.4 Increase data reuse (through clarifying licenses) <a name="increase_data_reuse"></a>  
+<a name="increase_data_reuse"></a>  
+### 2.4 Increase data reuse (through clarifying licenses)
 
 -	*Specify how the data will be licensed to permit the widest reuse possible*
 -	*Specify when the data will be made available for reuse. If applicable, specify why and for what period a data embargo is needed*	
@@ -600,8 +610,8 @@ QA processes for data generated/collected by NanoCommons will be automatically i
 
 A similar approach needs to be implemented for pre-existing datasets to be imported into the NanoCommons database. In these cases, and especially for the curation of already published peer-reviewed data, a manual curation process will most likely have to be implemented that will also mean that the curators will decide on the level of data quality. For other datasets, tools performing automated QA analysis and (pre)processing (e.g. [arrayanalysis.org/](arrayanalysis.org/) and [github.com/BiGCAT-UM](github.com/BiGCAT-UM)) and QA and analysis of sequencing data pipelines developed by the Consortium (e.g. Maastricht’s University RNA seq and MeDIP seq) will be implemented and made available for use. 
 
-
-## 3. Allocation of resources <a name="allocation_of_resources"></a>  
+<a name="allocation_of_resources"></a>  
+## 3. Allocation of resources 
 
 *Explain the allocation of resources, addressing the following issues:*   
 -	*Estimate the costs for making your data FAIR. Describe how you intend to cover these costs*   
@@ -629,7 +639,8 @@ All TA will be offered via **centralised calls** for User Access run on a 6-mont
 ![](media/image1.png)  
 **Figure 2**. Flow of data in the NanoCommons project.
 
-## 4. Data security <a name="data_security"></a>
+<a name="data_security"></a>
+## 4. Data security 
 
 - *Address data recovery as well as secure storage and transfer of sensitive data*  
 
@@ -641,7 +652,8 @@ The NanoCommons approach on sensitive data security, secure storage, recovery an
   
 Data sharing and transfer among persons or partners will be, where appropriate, third party secure file transfer facilities, such as the NanoCommons knowledge warehouse, Figshare and OpenAIRE and via the internal communication platform. In the longer-term it is anticipated that NanoCommons  datasets will be curated for and stored in certified repositories not dependent on the project funds for long term preservation (e.g. the OpenAIRE or UoB Research Data Store), if we are not able to secure our status as an Advanced Research Infrastructure or ERIC.
 
-## 5. Ethical aspects <a name="ethical_aspects"></a>
+<a name="ethical_aspects"></a>
+## 5. Ethical aspects 
 
 - *To be covered in the context of the ethics review, ethics section of DoA and ethics deliverables. Include references and related technical aspects if not covered by the former*
 
@@ -663,8 +675,8 @@ NanoCommons will utilise the following aspects of the UoB data storage services:
 -	Research Data Store (RDS): The RDS is a central storage service for ‘active’ research data. It is highly resilient and is hosted in two data centres on campus. Space on the RDS is allocated to projects and managed accordingly.  Up to 3TB of storage will be allocated by default to the Project though additional capacity may be purchased.  
 -	BEAR DataShare: BEAR DataShare is a file synchronisation and sharing service provided by IT Services. The service allows users to securely save and sync files with colleagues and partners anywhere in the world, from any device. It provides 25GB storage capacity per user.  
 
-
-## Final remarks <a name="final_remarks"></a>   
+<a name="final_remarks"></a>  
+## Final remarks  
 
 **A living DMP**  
 The core of the RDM will be fixed: where our DoA or law outlines specific elements, these elements will be core part of the RDM and be pretty static. That said, over four years, the laws will changes, which will affect our plan. Second, to achieve maximal impact of our project, we have to be able to aptly respond to changes in the field.   
@@ -730,8 +742,8 @@ The DMP presented in this work helps you with planning your research data manage
 One area where time can be saved, is making data FAIR. Particularly making interoperable benefits from planning. For example, ontology annotation of data is easier when the details are fresh in your mind, e.g. about the standard operating procedures. In fact, identifying with identifiers or ontology terms which cell lines, buffers, etc, to use, can best be done when the experiment is designed.
 
 
-
-## References <a name="references"></a>
+<a name="references"></a>
+## References 
 
 1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 2. <a nane="ref2" />OpenAIRE - OpenAIRE [Internet]. Available: [https://www.openaire.eu/](https://www.openaire.eu/)
@@ -741,9 +753,11 @@ One area where time can be saved, is making data FAIR. Particularly making inter
 6. <a nane="ref6" />[https://www.biorxiv.org/content/early/2017/12/01/225490](https://www.biorxiv.org/content/early/2017/12/01/225490)
 7. <a nane="ref7" />Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. Nature Publishing Group; 2016;3: 160018.
 
-# Appendixes <a name="appendixes"></a>
+<a name="appendixes"></a>
+# Appendixes
 
-## Appendix A: RDM Copyright, License, and Waiver Clearance Form <a name="appendix_a"></a>
+<a name="appendix_a"></a>
+## Appendix A: RDM Copyright, License, and Waiver Clearance Form 
 
 <table>
   <tr>
@@ -783,7 +797,8 @@ translational research. In such cases, the NanoCommons consortium will make sure
 any use of data and metadata will be properly used and cited by external users, 
 through the appropriate actions (e.g. DOI assignment) and terms and conditions.  
 
-## Appendix B: NanoCommons Customized RDM Online Plan <a name="appendix_b"></a>
+<a name="appendix_b"></a>
+## Appendix B: NanoCommons Customized RDM Online Plan 
 
 The NanoCommons customised RDMO Plan will cover the entirety of the data lifecycle
 (Figure A1), which contains 6 steps, i.e. experimental planning, data acquisition,
