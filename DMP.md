@@ -314,7 +314,7 @@ NanoCommons will facilitate:
 
 NanoCommons is designed to integrate the Knowledge infrastructure for risk assessment of novel and emerging materials on a European and international scale, and provide (remote) access to data, data mining, modelling and risk assessment tools to all European researchers, from academia and industry, as well as regulators, ensuring their optimal use and joint development.
 
-### 1.3 Types and formats of data <a name="types_and_formats_of_data"></a>
+### 1.3 Types and formats of data <a name="types_and_formats"></a>
 
 #### 1.3.1 Types of Data <a name="types_of_data"></a> 
 An important distinction should be made here between various forms of data to be generated and utilized within NanoCommons:  
