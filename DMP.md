@@ -249,7 +249,12 @@ These formal expectation set aside, the project has quite some liberty in settin
 
 
 
-## 1. Data summary <a name="data_summary"></a>
+## 1. Data summary <a name="data_summary"></a>  
+
+<table>
+  <tr>
+    <th>Summary of the data addressing the following issues</th>
+  </tr>
 
 ### 1.1 Purpose of the data collection/generation <a name="purpose_of_data_collection"></a>
 
