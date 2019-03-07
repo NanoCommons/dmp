@@ -263,11 +263,32 @@ and can also promote cross-project/field cooperation and translational
 research. 
 
 
-### Relation to the objectives of the project <a name="relation_to_the_objectives"></a>
+### 1.2 Relation to the objectives of the project <a name="relation_to_the_objectives"></a>  
+NanoCommons is driven by the European nanosafety, nanomedicine and emerging materials research and regulatory communities need for an e-infrastructure providing a standardised, reproducible and interoperable way to access all available data, knowledge and analysis and facilitate the application of nanoinformatics and modelling tools that have been adapted and verified as suitable for application to nanomaterials.
+More than 10 years of nanosafety research has delivered tangible insights into the key science and policy required for the development of safe nano-enabled products. However, this knowledge has yet to be systematised, or made “FAIR”, in a manner that allows:    
+-	modellers to develop predictive frameworks and assess their domains of applicability,  
+-	industry to utilise the data, models and tools for safe-by-design strategies or as supporting evidence for use in regulatory dossiers,   
+-	regulators to compare one form to another or make estimations of data requirements for New and Emerging Materials (NEMs) based on shared properties with NMs, or  
+-	educators to utilise in teaching toxicology, ecotoxicology, environmental fate and modelling of the behaviour of ENMs.  
 
-### Types and formats of data
+To address this gap, NanoCommons will create an openly accessible e-infrastructure serving the current and future (unmet) needs of the key research communities and pivotal industrial users and regulators.
 
-#### Types of Data
+NanoCommons will facilitate:  
+1.	the efficient collection, integration, curation and maintenance of existing data and methods along with development and optimisation of the tools and user interfaces to interrogate them (JRA),  
+2.	the provision of access to the data, methods and tools collected or produced under the project, along with expert guidance in their use and in experimental design and workflows to harmonise data quality into the future (TA), and  
+3.	community building including bridging disciplinary gaps (e.g. toxicology and ecotoxicology, experimental and modelling), promoting best practice in data quality (e.g. Quality Assurance (QA) audits, Independent Experimental Data audits), and development of User case studies demonstrating the capability of the NanoCommons infrastructure to address real stakeholder challenges in partnership with industry & regulators (NA).  
+
+NanoCommons is designed to integrate the Knowledge infrastructure for risk assessment of novel and emerging materials on a European and international scale, and provide (remote) access to data, data mining, modelling and risk assessment tools to all European researchers, from academia and industry, as well as regulators, ensuring their optimal use and joint development.
+
+### 1.3 Types and formats of data
+
+#### 1.3.1 Types of Data  
+An important distinction should be made here between various forms of data to be generated and utilized within NanoCommons:  
+1.	Raw or experimental data  
+2.	Derived (processed or computed) data  
+3.	Data associated with formal publications (literature curated data) (This is typically summarised data, from which the original data cannot really be reconstructed).  
+4.	Interactive data, whereby the data is put in the context of other data. For example, integrated with other data sets, etc.  
+
 
 #### Formats of Data
 
