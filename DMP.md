@@ -438,31 +438,32 @@ Potential beneficiaries of the data, tools and the NanoCommons infrastructure:
 
 ## 2. FAIR data <a name="fair_data"></a>
 
-### Making data findable, including provisions for metadata
 
-#### Making data discoverable, including provisions for metadata
+### 2.1 Making data findable, including provisions for metadata <a name="making_data_findable"></a>
 
-#### Identifiers and naming conventions
+#### 2.1.1 Making data discoverable, including provisions for metadata <a name="making_data_discoverable"></a>
 
-### Making data openly accessible
+#### 2.1.2 Identifiers and naming conventions <a name="identifiers"></a>
 
-#### Open Data
+### 2.2 Making data openly accessible <a name="making_data_openly_accessible"></a>
 
-#### Free Access
+#### 2.2.1 Open Data <a name="open_data"></a>
 
-### Making data interoperable
+#### 2.2.2 Free Access <a name="free_access"></a>
 
-#### Supported data exchange formats
+### 2.3 Making data interoperable <a name="making_data_interoperable"></a>
 
-### Increase data reuse (through clarifying licenses)
+#### 2.3.1 Supported data exchange formats <a name="supported_data_exchange"></a>
 
-## Allocation of resources
+### 2.4 Increase data reuse (through clarifying licenses) <a name="increase_data_reuse"></a>
 
-## Data security
+## 3. Allocation of resources <a name="allocation_of_resources"></a>
 
-## Ethical aspects
+## 4. Data security <a name="data_security"></a>
 
-## Final remarks
+## 5. Ethical aspects <a name="ethical_aspects"></a>
+
+## Final remarks <a name="final_remarks"></a>
 
 ## References
 
