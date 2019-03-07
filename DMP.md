@@ -13,11 +13,11 @@
 [1.2 Relation to the objectives of the project](#relation_to_the_objectives)  
 [1.3 Types and formats of data](#types_and_formats)  
 [1.3.1 Types of Data](#types_of_data)  
-1.3.2 Formats of Data  
-1.4 Reuse of data  
-1.5 Origin of the data  
-1.6 Expected size of the data  
-1.7 Utility of data and models  
+[1.3.2 Formats of Data](#formats_of_data)  
+[1.4 Reuse of data](#reuse_of_data)  
+[1.5 Origin of the data](#origin_of_the_data)  
+[1.6 Expected size of the data](#expected_size_of_the_data)  
+[1.7 Utility of data and models](#utility_of_data_and_models)  
 
 
 
@@ -280,9 +280,9 @@ NanoCommons will facilitate:
 
 NanoCommons is designed to integrate the Knowledge infrastructure for risk assessment of novel and emerging materials on a European and international scale, and provide (remote) access to data, data mining, modelling and risk assessment tools to all European researchers, from academia and industry, as well as regulators, ensuring their optimal use and joint development.
 
-### 1.3 Types and formats of data
+### 1.3 Types and formats of data <a name="types_and_formats_of_data"></a>
 
-#### 1.3.1 Types of Data  
+#### 1.3.1 Types of Data <a name="types_of_data"></a> 
 An important distinction should be made here between various forms of data to be generated and utilized within NanoCommons:  
 1.	Raw or experimental data  
 2.	Derived (processed or computed) data  
@@ -290,17 +290,17 @@ An important distinction should be made here between various forms of data to be
 4.	Interactive data, whereby the data is put in the context of other data. For example, integrated with other data sets, etc.  
 
 
-#### Formats of Data
+#### 1.3.2 Formats of Data <a name="formats_of_data"></a>
 
-### Reuse of data
+### 1.4 Reuse of data <a name="reuse_of_data"></a>
 
-### Origin of the data
+### 1.5 Origin of the data <a name="origin_of_data"></a>
 
-### Expected size of the data
+### 1.6 Expected size of the data <a name="expected_size_of_data"></a>
 
-### Utility of data and models
+### 1.7 Utility of data and models <a name="utility_of_data_and_models"></a>
 
-## FAIR data
+## 2. FAIR data <a name="fair_data"></a>
 
 ### Making data findable, including provisions for metadata
 
