@@ -488,11 +488,11 @@ To ensure clear and explicit semantics, when using identifiers in dissemination,
 -	*Specify where the data and associated metadata, documentation and code are deposited*  
 -	*Specify how access will be provided in case there are any restrictions*  
 
-This principle prescribes that data must be accompanied with metadata that explains how people get access to the data. This does not imply they always get access (generally they do), but if they do, how. To be accessible, the principles specify:
-●	*A1. (meta)data are retrievable by their identifier using a standardized communications protocol  
-○	A1.1 the protocol is open, free, and universally implementable  
-○	A1.2 the protocol allows for an authentication and authorization procedure, where necessary  
-●	A2. metadata are accessible, even when the data are no longer available.*  
+This principle prescribes that data must be accompanied with metadata that explains how people get access to the data. This does not imply they always get access (generally they do), but if they do, how. To be accessible, the principles specify:   
+-	*A1. (meta)data are retrievable by their identifier using a standardized communications protocol   
+      -	A1.1 the protocol is open, free, and universally implementable  
+      -	A1.2 the protocol allows for an authentication and authorization procedure, where necessary  
+-	A2. metadata are accessible, even when the data are no longer available.*  
 
 
 #### 2.2.1 Open Data <a name="open_data"></a>
