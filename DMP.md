@@ -154,11 +154,11 @@ to consider any problems or challenges that may be encountered in making their
 data Open and FAIR and helps them to identify ways to overcome these. This DMP
 is a “living” document outlining how the research data collected or generated
 will be handled during and after the NanoCommons project. It follows the
-Guidelines on FAIR Data Management in Horizon 2020 [[3](#user-content-ref3)] and is based around the
+Guidelines on FAIR Data Management in Horizon 2020 [[1](#user-content-ref3)] and is based around the
 realistic resources available to the project partners and TA Users taking the
 current knowledge into account.  The ongoing activities to keep the DMP up to
 date will follow an online, distributed approach as outlined in the Guidelines
-for creating an online DMP [[4](#user-content-ref4)]. As part of our community building and sharing
+for creating an online DMP [[3](#user-content-ref4)]. As part of our community building and sharing
 of best practices approach, the NanoCommons initial DMP will be made publically
 available to other nanosafety and nanoinformatics projects to reuse, and all
 updates will be announced widely to the relevant communities (including
