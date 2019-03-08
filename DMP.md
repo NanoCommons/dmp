@@ -4,7 +4,7 @@
 
 ## Table of contents  
 [Summary](#summary)  
-[List of abbreviations](#list_of_abbreviations)
+[List of abbreviations](#list_of_abbreviations)  
 [Introduction](#introduction)    
 &nbsp;&nbsp;&nbsp;&nbsp; [Data set description](#data_set_description)  
 &nbsp;&nbsp;&nbsp;&nbsp; [Data sharing](#data_sharing)  
