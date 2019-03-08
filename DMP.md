@@ -32,12 +32,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 Increase data reuse (through clarifying licenses)](#increase_data_reuse)  
 [3. Allocation of resources](#allocation_of_resources)  
 [4. Data security](#data_security)  
-[5. Ethical aspects](#ethical_aspects)  
-[Final remarks](#final_remarks)  
-[References](#references)  
+[5. Ethical aspects](#ethical_aspects)   
+[6. Other](#other)  
+[7. Final remarks](#final_remarks)  
+[8. References](#references)  
 [Appendixes](#appendixes)  
-[Appendix A: RDM Copyright, License, and Waiver Clearance Form](#appendix_a)  
-[Appendix B: NanoCommons Customized RDM Online Plan](#appendix_b)
+&nbsp;&nbsp;&nbsp;&nbsp; [Appendix A: RDM Copyright, License, and Waiver Clearance Form](#appendix_a)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Appendix B: NanoCommons Customized RDM Online Plan](#appendix_b)
 
 
 
@@ -666,7 +667,8 @@ No ethical issues arise from the project overall, or the data management aspects
 
 Thus, we do not anticipate any ethical or legal issues relating to the datasets generated as part of ACEnano project that would impact on data sharing. No personal data will be collected and so informed consent for data sharing and long term preservation of such datasets is not required.
 
-## Other 
+<a name="other"></a>
+## 6. Other 
 
 - *Refer to other national/funder/sectorial/departmental procedures for data management that you are using (if any)*  
 
@@ -679,7 +681,7 @@ NanoCommons will utilise the following aspects of the UoB data storage services:
 -	BEAR DataShare: BEAR DataShare is a file synchronisation and sharing service provided by IT Services. The service allows users to securely save and sync files with colleagues and partners anywhere in the world, from any device. It provides 25GB storage capacity per user.  
 
 <a name="final_remarks"></a>  
-## Final remarks  
+## 7. Final remarks  
 
 **A living DMP**  
 The core of the RDM will be fixed: where our DoA or law outlines specific elements, these elements will be core part of the RDM and be pretty static. That said, over four years, the laws will changes, which will affect our plan. Second, to achieve maximal impact of our project, we have to be able to aptly respond to changes in the field.   
@@ -746,7 +748,7 @@ One area where time can be saved, is making data FAIR. Particularly making inter
 
 
 <a name="references"></a>
-## References 
+## 8. References 
 
 1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 2. <a nane="ref2" />OpenAIRE - OpenAIRE [Internet]. Available: [https://www.openaire.eu/](https://www.openaire.eu/)
