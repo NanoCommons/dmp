@@ -252,7 +252,7 @@ The NanoCommons DoA describes the goal of this deliverable (due at Month 6):
 However, a second section of our DoA is essential, and is part of our agreement (contract) with the EC, which describes in more detail how NanoCommons is expected to provide access to third-parties of data produced within NanoCommons (emphasize ours):
 
 *29.3 Open access to research data*  
-*Regarding the digital research data generated in the action (‘data’), the beneficiaries must:**   
+*Regarding the digital research data generated in the action (‘data’), the beneficiaries must:*   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *a.	**deposit** [it] in[to] a research data repository and take measures to make it possible for third parties to access, mine, exploit, reproduce and **disseminate — free of charge** for any user — the following:*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *i.	the data, including associated metadata, needed to validate the results **presented in scientific publications** as soon as possible;*  
