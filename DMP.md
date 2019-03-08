@@ -6,7 +6,7 @@
 [Summary](#summary)  
 [List of abbreviations](#list_of_abbreviations)
 [Introduction](#introduction)    
-&nbsp &nbsp      [Data set description](#data_set_description)  
+&nbsp;&nbsp;      [Data set description](#data_set_description)  
 [Data sharing](#data_sharing)  
 [Archiving and preservation](#archiving_and_preservation)	   
 [1. Data summary](#data_summary)	  
