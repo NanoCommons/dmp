@@ -6,9 +6,10 @@
 [Summary](#summary)  
 [List of abbreviations](#list_of_abbreviations)
 [Introduction](#introduction)    
-&nbsp;&nbsp;      [Data set description](#data_set_description)  
-[Data sharing](#data_sharing)  
-[Archiving and preservation](#archiving_and_preservation)	   
+&nbsp;&nbsp;&nbsp;&nbsp; [Data set description](#data_set_description)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Data sharing](#data_sharing)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Archiving and preservation](#archiving_and_preservation)	 
+&nbsp;&nbsp;&nbsp;&nbsp; [The NanoCommons Research Data Management Plan](#dmp)
 [1. Data summary](#data_summary)	  
 [1.1 Purpose of the data collection/generation](#purpose_of_data_collection)	  
 [1.2 Relation to the objectives of the project](#relation_to_the_objectives)  
@@ -218,6 +219,7 @@ the plan is stored and updated online using the recommended DMP tool
 ![](media/image5.png)  
 **Figure 1**. Screenshot of the tool used to create the NanoCommons [DMP](https://dmponline.dcc.ac.uk/plans/26512) 
 
+<a name="dmp"></a> 
 **The NanoCommons Research Data Management Plan**  
 The Data Management Plan (DMP) is essential to ensure the capture of 
 return-on-investment (RoI) for the resources put in by the European Union,
