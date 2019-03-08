@@ -548,9 +548,9 @@ But generally it is accepted that hosting raw can be covered in kind by existing
 -	*Specify whether you will be using standard vocabulary for all data types present in your data set, to allow inter-disciplinary interoperability? If not, will you provide mapping to more commonly used ontologies?*  
 
 This principles prescribes that data must be sufficiently annotated such that people can understand what the data means. This means a clear data format must be used, values must have units, columns must have clear annotation what was measured, etc. This is also where ontologies (vocabularies) typically come in. To be interoperably, the principles specify:  
-    -	*I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation*  
-    -	*I2. (meta)data use vocabularies that follow FAIR principles*  
-    -	*I3. (meta)data include qualified references to other (meta)data*  
+&nbsp;&nbsp;&nbsp;&nbsp; -	*I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation*  
+&nbsp;&nbsp;&nbsp;&nbsp; -	*I2. (meta)data use vocabularies that follow FAIR principles*  
+&nbsp;&nbsp;&nbsp;&nbsp; -	*I3. (meta)data include qualified references to other (meta)data*  
 
 The NanoCommons objectives are to make the data generated/collected and the tools developed during the project’s lifecycle as interoperable as possible and to promote dataset combination and translational research. This means that the acquired data needs to be captured using a harmonised approach. To achieve that the project will use common data curation templates based on the ISA-TAB extended file format, which is an accepted ASTM standard (ASTM International E2909-13), are dynamic and flexible and can be modified accordingly to accommodate all User and project needs. The use of best practice examples (e.g. [diXa](http://www.dixa-fp7.eu/) and [ToxBank](https://toxbank.net/)) may be used for template creation, as well as the NIKC data curation template, which is especially versatile, treats experimental protocols and instruments as data points and can accommodate all fields of nanosafety research. 
 
@@ -565,7 +565,7 @@ Another important aspect of data harmonisation is the use of a vocabulary (i.e. 
 [eTOX](http://www.etoxproject.eu/index.html), 
 [eNanoMapper](http://www.enanomapper.net/ontology), 
 [MPATH](https://bioportal.bioontology.org/ontologies/MPATH), 
-etc; see Hastings et al., 2015), which will be linked and integrated to the NanoCommons ontology. This common vocabulary will be used for both the data and metadata curation irrespective of the file format the data is being stored.
+etc; see [[13](#user-content-ref13)]), which will be linked and integrated to the NanoCommons ontology. This common vocabulary will be used for both the data and metadata curation irrespective of the file format the data is being stored.
 
 Data and tools storage and accessibility is also going to be addressed through the use of multiple backups and mirrors that will be accessible through the NanoCommons  APIs. These will also include an appropriate query and interoperability system that will allow the retrieval and combination of publicly available and disparate datasets, without the need for individual search and subsequent combination. The implementation of tools within the NanoCommons Knowledge Commons and databases will also allow the analysis of the retrieved combined datasets along with the appropriate quality control checks to identify whether further analysis is possible and meaningful.
 
