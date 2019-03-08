@@ -743,6 +743,44 @@ One area where time can be saved, is making data FAIR. Particularly making inter
 <a name="references"></a>
 ## 8. References 
 
+1. <a name="ref1" />Directorate-General for Research & Innovation, E.C., Guidelines on FAIR Data Management in Horizon 2020 v3.0. http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h202 0-hi-oa-data-mgt_en.pdf, 26 July 2016.
+2. <a name="ref2" />OpenAire. OpenAire. 2018 20 July 2018]; Available from: https://www.openaire.eu/.
+3. <a name="ref3" />OpenAire. How to create a DMP Plan. 20 July 2018]; Available from:
+https://www.openaire.eu/opendatapilot-dmp.
+4. <a name="ref4" />Wilkinson, M.D., et al., A design framework and exemplar metrics for FAIRness. Scientific
+Data, 2018. 5: p. 180118.
+5. <a name="ref5" />Carbon, S., et al., A Measure of Open Data: A Metric and Analysis of Reusable Data Practices
+in Biomedical Data Resources. bioRxiv, 2018.
+6. <a name="ref6" />Corpas, M., et al., A FAIR guide for data providers to maximise sharing of human genomic
+data. PLOS Computational Biology, 2018. 14(3): p. e1005873.
+7. <a name="ref7" />DMPOnline. Data Management Plan Online Preparation Tool. 2018 May 2018]; Available
+from: https://dmponline.dcc.ac.uk/.
+8. <a name="ref8" />Thomas, D.G., et al., ISA-TAB-Nano: A Specification for Sharing Nanomaterial Research Data
+in Spreadsheet-based Format. BMC Biotechnology, 2013. 13(1): p. 2.
+9. <a name="ref9" />Langevin, D., et al., Inter-laboratory comparison of nanoparticle size measurements using dynamic light scattering and differential centrifugal sedimentation. NanoImpact, 2018. 10: p.
+97-107.
+10. <a name="ref10" />CreativeCommons. Licensing types. Share your work: Licensing types 2018 [cited 2018 20
+July 2018]; Available from: https://creativecommons.org/share-your-work/licensing-types-
+examples/.
+11. <a name="ref11" />Wilkinson, M.D., et al., The FAIR Guiding Principles for scientific data management and
+stewardship. Scientific Data, 2016. 3: p. 160018.
+12. <a name="ref12" />Joint Research Centre, E.C. JRC NANOMATERIALS REPOSITORY: List of Representative
+Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc/sites/jrcsh/files/JRC%20Nanomaterials%20Repository- List%20of%20Representative%20Nanomaterials-201606.pdf.
+13. <a name="ref13" />Hastings, J., et al., eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment. Journal of Biomedical Semantics, 2015. 6(1): p. 10.
+14. <a name="ref14" />Jeliazkova, N., et al., Deliverable Report D3.4: ISA-Tab templates for selected set of common bioassays, in eNanoMapper, B. Hardy, Editor. November 2016.
+15. <a name="ref15" />Totaro, S., H. Crutzen, and J. Riego Sintes, Data logging templates for the environmental, health and safety assessment of nanomaterials. EU Science Hub, 2017.
+16. <a name="ref16" />eNanoMapper. Investigation-Study-Assay (ISA): New material schema for ISA-JSON. Nanomaterial characterisation and bioassays data entry templates 20 July 2018]; Available from: http://ambit.sourceforge.net/enanomapper/templates/isa.html.
+17. <a name="ref17" />Schiermeier, Q., Data management made simple. Nature, 2018. 555(7696): p. 403.
+18. <a name="ref18" />Borghi, J.A., et al., Support Your Data: A Research Data Management Guide for Researchers.
+Research Ideas and Outcomes, 2018. 4.
+
+
+
+
+
+
+
+
 1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 2. <a nane="ref2" />OpenAIRE - OpenAIRE [Internet]. Available: [https://www.openaire.eu/](https://www.openaire.eu/)
 3. <a nane="ref3" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
