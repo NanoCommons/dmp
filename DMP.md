@@ -220,7 +220,7 @@ the plan is stored and updated online using the recommended DMP tool
 (Figure 1) available at [dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/) (see also Appendix B).
 
 ![](media/image5.png)  
-**Figure 1**. Screenshot of the tool used to create the NanoCommons [DMP](https://dmponline.dcc.ac.uk/plans/26512) 
+**Figure 1**. Screenshot of the tool used to create the NanoCommons DMP [[7](#user-content-ref7)] 
 
 <a name="dmp"></a> 
 ### The NanoCommons Research Data Management Plan  
