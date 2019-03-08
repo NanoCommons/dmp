@@ -503,13 +503,8 @@ To achieve that harmonised output, NanoCommons will use a joint workflow system 
 <a name="identifiers"></a>
 #### 2.1.2 Identifiers and naming conventions 
 
-Of particular importance are the use of identifiers here. As many aspects of the experiments should be linked to identifiers, including but not limited to: ENMs, cell lines, bioassays, species, genes, proteins, and metabolites. Identifiers should come from internationally recognized databases or resources whenever possible. For example, gene identifiers should be ideally from Ensembl or NCBI Gene, or from the HGNC for human genes. For proteins UniProt would be a good resource. For nanomaterials, the proper JRC identifiers (JRCNMxxx) must be used (the NM-xxx only apply for very old batches). If nanomaterials do not have globally unique identifier, the NanoCommons project can provide unique identifiers. Ontology identifiers are first class supported identifiers.
+Of particular importance are the use of identifiers here. As many aspects of the experiments should be linked to identifiers, including but not limited to: ENMs, cell lines, bioassays, species, genes, proteins, and metabolites. Identifiers should come from internationally recognized databases or resources whenever possible. For example, gene identifiers should be ideally from Ensembl or NCBI Gene, or from the HGNC for human genes. For proteins UniProt would be a good resource. For nanomaterials, the proper JRC identifiers (JRCNMxxx) must be used (the NM-xxx only apply for very old batches) [[12](#user-content-ref12)]. If nanomaterials do not have globally unique identifier, the NanoCommons project can provide unique identifiers. Ontology identifiers are first class supported identifiers.
 
-##### 2.1.2.1 Disseminate testing material identifiers  
-Similar to the idea of pre-registration of clinical trials, each project should disseminate the identifiers they have chosen to represent the nanomaterials selected to be tested or used in that project. These identifiers must be publicly announced as soon as a material is selected, widely distributed within the project, disseminated to other projects, and consistently used in all reporting, experimental protocols, results, metadata, etc.
-
-##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination    
-To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [REF].  
 
 <a name="making_data_openly_accessible"></a>
 ### 2.2 Making data openly accessible 
