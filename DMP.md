@@ -352,7 +352,7 @@ The NanoCommons project aims to mainly use the following 3 data formats, which a
 <ol type="a">
   <li>The advantage of use of the ISA type templates is the flexibility they demonstrate with respect to creation and design for any type of experiments and the addition / subtraction of columns to fit all experimental needs (methods, descriptors etc.). </li>
   <li>Disadvantages of the ISA- templates include the lack of description of the file formats for both data and metadata. They are also not necessarily linked with specific ontologies and thus the naming of the columns is not regulated and protocolled. At the same time, only the file names, and not the file types, are generally available. The latter disadvantage could be potentially overcome with the use of an interoperability layer within the data management infrastructure, which will describe the dataset using a specific ontology and taxonomy. </li>
-  <li>The ISA-(TAB/JSON)-nano addon is currently not as developed [REF], but is the started norm in the nano-field, although is rarely applied to the letter. ISA- (TAB/JSON)-nano is being promoted by the US National Cancer Institute and the eNanoMapper data portal.  </li>
+  <li>The ISA-(TAB/JSON)-nano addon is currently not as developed [[8](#user-content-ref8)], but is the started norm in the nano-field, although is rarely applied to the letter. ISA- (TAB/JSON)-nano is being promoted by the US National Cancer Institute and the eNanoMapper data portal.  </li>
 </ol>
 
 **2.	NIKC**    
