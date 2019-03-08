@@ -700,7 +700,7 @@ are very knowledgeable in the field, and so do several members of the European P
 IT journals also provide information, like the German C’t with 
 [Welche Änderungen die neue EU-Datenschutz-Regulierung in Deutschland bringen wird](https://www.heise.de/select/ct/2016/09/1461574428497459).
 
-**RDM tools**
+**RDM tools**  
 There are many tools around that support and/or provide guidance, including the following services:  
 -	[DMPOnline](https://dmponline.dcc.ac.uk/) (used in this report)  
 -	[Data Stewardship Wizard](https://ds-wizard.org/) (ELIXIR-NL)  
