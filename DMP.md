@@ -709,21 +709,14 @@ There are many tools around that support and/or provide guidance, including the 
 
 **RDM courses and guidance**
 -	[H2020 Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)  
--	“Data management made simple” [REF] with Twelve tips for writing a data-management plan  
+-	“Data management made simple” [[17](#user-content-ref17)]  with Twelve tips for writing a data-management plan  
 -	[ELIXIR Webinar: Requirements in data protection law and the upcoming General Data Protection Regulation (GDPR) implementation](https://www.elixir-europe.org/events/webinar-gdpr)  
 -	[DataONE Webinar: Data management plans 2.0: Helping you manage your data](https://www.dataone.org/webinars/data-management-plans-20-helping-you-manage-your-data)  
 -	[SpringerNature’s Research Data Support](https://www.springernature.com/de/authors/research-data-policy)  
 -	[ORCID and Data Privacy in Germany](https://orcid.org/blog/2018/04/18/orcid-and-data-privacy-germany)  
--	“Support Your Data: A Research Data Management Guide for Researchers” [REF]  
+-	“Support Your Data: A Research Data Management Guide for Researchers” [[18](#user-content-ref18)]   
 -	[Data Protection Officer (DPO) Certification course by Maastricht University](https://www.maastrichtuniversity.nl/events/data-protection-officer-dpo-certification-course-7)  
--	[12 Things to Know About the GDPR and Data Security](https://www.dreamhost.com/blog/what-to-know-about-gdpr-data-security/)  
--	[Complete guide to GDPR compliance by GDPR.eu, a H2020 funded project](https://gdpr.eu/)  
--	[OpenAIRE: a pillar for Open Science in the EU: a Horizon 2020 GRACIOUS Webinar](https://doi.org/10.5281/zenodo.2248862)  
--	[Ten simple rules for machine-actionable data management plans (preprint)](https://doi.org/10.5281/zenodo.1172672) by OpenAIRE  
--	[The (GA4GH) Data Use Ontology (DUO)](https://github.com/EBISPOT/DUO)  
--	[Science Europe: Practical Guide to the International Alignment of Research Data Management](https://www.scienceeurope.org/wp-content/uploads/2018/12/SE_RDM_Practical_Guide_Final.pdf)   
-
-A recent paper looked into the effect of RDM in research, which is worth reading too [REF]. They report three *“key takeaways: (1) Most PIs practice internal data management in order to prevent data loss, to facilitate sharing within the research team, and to seamlessly continue their research during personnel turnover; (2) PIs still have room to grow in understanding specialized concepts such as metadata and policies for use and reuse; (3) PIs may need guidance on practices that facilitate FAIR data, such as using metadata standards, assigning licenses to their data, and publishing in data repositories.”* These provide clear guidance of mistakes not to make yourself.
+-	[12 Things to Know About the GDPR and Data Security](https://www.dreamhost.com/blog/what-to-know-about-gdpr-data-security/) 
 
 **Our DMP**  
 The previous sections already outlined the context of our DMP. The vision of NanoCommons is to create a commons of knowledge about nanosafety. The stated mission is to provide FAIR and open access to research data.  One step towards this is provision of advice and support to Users to best practice in development and implementation of DMPs, through provision of the NanoCommons DMP as a model for other NSC and beyond projects on how to manage their data to be FAIR, and also to provide instructions on how best to link their data into the NanoCommons (or other relevant) infrastructure.  This appendix thus helps Users and the wider nanosafety community to:  
