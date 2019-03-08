@@ -631,11 +631,11 @@ The responsibility and budget for developing and managing the web based structur
 
 **Transnational Access (TA) to Knowledge Management and computational Tools**   
 Within NanoCommons, funded access will be provided via short (1 month) or longer term (3-6 month) projects to support users with one of the following activities:  
-Knowledge Base and Data Mining  
-Processing and Analysis services  
-Predictive nanoToxicology   
-Risk assessment visualisation and reporting  
-Nanoinformatics workflows for nanosafety experiments / best practice workflows.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge Base and Data Mining  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Processing and Analysis services  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Predictive nanoToxicology   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Risk assessment visualisation and reporting  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanoinformatics workflows for nanosafety experiments / best practice workflows.  
 
 All TA will be offered via **centralised calls** for User Access run on a 6-monthly basis.  Calls for access will include micro-projects (up to 1 month Access), mini-projects (up to 6 months of access) and workflow Access to include site-visits to expert labs and support in establishment of nanoinformatics workflows to underpin excellence in experimental design.  A pre-requisite for TA projects related to TA modality will be that data utilised will be made open access and FAIR via NanoCommons research infrastructure via the TA funding held by the partners to support the TA Users.
 
