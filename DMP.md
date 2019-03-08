@@ -775,20 +775,6 @@ Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc
 Research Ideas and Outcomes, 2018. 4.
 
 
-
-
-
-
-
-
-1. <a name="ref1" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
-2. <a nane="ref2" />OpenAIRE - OpenAIRE [Internet]. Available: [https://www.openaire.eu/](https://www.openaire.eu/)
-3. <a nane="ref3" />Guidelines on FAIR Data Management in Horizon 2020, Version 3.0, 26 July 2016 [Internet]. Available: [http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
-4. <a nane="ref4" />How to create a DMP Plan | Open Research Data Pilot [Internet]. Available: [https://www.openaire.eu/opendatapilot-dmp](https://www.openaire.eu/opendatapilot-dmp)
-5. <a nane="ref5" />[https://creativecommons.org/share-your-work/licensing-types-examples/](https://creativecommons.org/share-your-work/licensing-types-examples/)
-6. <a nane="ref6" />[https://www.biorxiv.org/content/early/2017/12/01/225490](https://www.biorxiv.org/content/early/2017/12/01/225490)
-7. <a nane="ref7" />Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. Nature Publishing Group; 2016;3: 160018.
-
 <a name="appendixes"></a>
 # Appendixes
 
