@@ -1,6 +1,6 @@
 # NanoCommons Data Management Plan
 
-This repository contains a Markdown version of the [NanoCommons Data Management Plan](DMP.md).
+This repository contains a Markdown version of the [NanoCommons Data Management Plan](DMP.md). The authors are listed in the [AUTHORS](AUTHORS.md) file and the license is given in the [LICENSE](LICENSE.md) file.
 
 !!! Work in progress !!!
 
