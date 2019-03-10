@@ -5,3 +5,4 @@
 * Egon Willighagen <https://orcid.org/0000-0001-7542-0286>
 * Iseult Lynch <https://orcid.org/0000-0003-4250-4584>
 * Thomas Exner
+* Serena Bonaretti
