@@ -1,4 +1,5 @@
-all: DMP.md
+all: README.md DMP.md
 
-DMP.md: DMP.i.md
-	@groovy createMarkdown.groovy DMP.i.md NanoCommons 731032 > DMP.md
+%.md : %.i.md createMarkdown.groovy
+	@echo "Creating $@"
+	@groovy createMarkdown.groovy $< NanoCommons 731032 > $@

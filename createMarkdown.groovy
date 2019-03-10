@@ -8,11 +8,11 @@ grant = args[2]
 
 lines = new File(input).readLines()
 lines.each { String line ->
-  if (line.contains("<project/>")) {
-    println line.replace("<project/>", project)
-  } else if (line.contains("<grant/>")) {
-    println line.replace("<grant/>", grant)
-  } else {
-    println line
+  while (line.contains("<project/>")) {
+    line = line.replace("<project/>", project)
   }
+  while (line.contains("<grant/>")) {
+    line = line.replace("<grant/>", grant)
+  }
+  println line
 }
