@@ -47,7 +47,7 @@
 ## Summary 
 
 This deliverable presents the initial data management plan (DMP) for the
-starting community research infrastructure <project/> (grant no 731032). It is a living
+starting community research infrastructure <project/> (grant no <grant/>). It is a living
 document that will be updated over the course of the project, with the
 final plan to be delivered at the end of the project. We anticipate that
 at least two other versions of the plan will be developed, to accommodate
