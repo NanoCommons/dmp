@@ -510,6 +510,15 @@ Of particular importance are the use of identifiers here. As many aspects of the
 ##### 2.1.2.1 Disseminate testing material identifiers
 Similar to the idea of pre-registration of clinical trials, each project should disseminate the identifiers they have chosen to represent the nanomaterials selected to be tested or used in that project. These identifiers must be publicly announced as soon as a material is selected, widely distributed within the project, disseminated to other projects, and consistently used in all reporting, experimental protocols, results, metadata, etc.
 
+To support this, the [European Registry of Materials](https://github.com/NanoCommons/identifiers)
+was started where anonymous identifiers can be registered. These are then reserved and can be used
+in all (internal and external) documentation (experimental designs, spreadsheets, reports,
+deliverables, articles, etc), e.g. as Compact Identifiers (see Section 2.1.2.2). Registration of
+an new identifiers requires only a minimal amount of information: a name for the material, e.g.
+"NanoCommons Material X". Optional information includes: unique chemical composition,
+batch and/or lot number, an ontological classification, a webpage, a provider, contact, or
+project name.
+
 ##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination
 To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[12b](#user-content-ref12b)].
 
