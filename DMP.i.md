@@ -507,6 +507,11 @@ To achieve that harmonised output, <project/> will use a joint workflow system i
 <a name="identifiers"></a>
 Of particular importance are the use of identifiers here. As many aspects of the experiments should be linked to identifiers, including but not limited to: ENMs, cell lines, bioassays, species, genes, proteins, and metabolites. Identifiers should come from internationally recognized databases or resources whenever possible. For example, gene identifiers should be ideally from Ensembl or NCBI Gene, or from the HGNC for human genes. For proteins UniProt would be a good resource. For nanomaterials, the proper JRC identifiers (JRCNMxxx) must be used (the NM-xxx only apply for very old batches) [[12](#user-content-ref12)]. If nanomaterials do not have globally unique identifier, the <project/> project can provide unique identifiers. Ontology identifiers are first class supported identifiers.
 
+##### 2.1.2.1 Disseminate testing material identifiers
+Similar to the idea of pre-registration of clinical trials, each project should disseminate the identifiers they have chosen to represent the nanomaterials selected to be tested or used in that project. These identifiers must be publicly announced as soon as a material is selected, widely distributed within the project, disseminated to other projects, and consistently used in all reporting, experimental protocols, results, metadata, etc.
+
+##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination
+To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[12b](#user-content-ref12b)].
 
 
 ### 2.2 Making data openly accessible 
@@ -541,7 +546,7 @@ But generally it is accepted that hosting raw can be covered in kind by existing
 2.	European repositories (e.g. [ZENODO](https://zenodo.org/), part of OpenAIRE)    
 3.	Commercial repositories (e.g. [Figshare](https://figshare.com/) or [Mendeley Data](https://data.mendeley.com/))
 
-
+Guidance on selecting repositories can be found in [Science Europe’s Practical Guide to the International Alignment of Research Data Management](https://www.scienceeurope.org/wp-content/uploads/2018/12/SE_RDM_Practical_Guide_Final.pdf).
 
 ### 2.3 Making data interoperable 
 <a name="making_data_interoperable"></a>
@@ -717,6 +722,14 @@ There are many tools around that support and/or provide guidance, including the 
 -	“Support Your Data: A Research Data Management Guide for Researchers” [[18](#user-content-ref18)]   
 -	[Data Protection Officer (DPO) Certification course by Maastricht University](https://www.maastrichtuniversity.nl/events/data-protection-officer-dpo-certification-course-7)  
 -	[12 Things to Know About the GDPR and Data Security](https://www.dreamhost.com/blog/what-to-know-about-gdpr-data-security/) 
+-   [Complete guide to GDPR compliance](https://gdpr.eu/) by GDPR.eu, a H2020 funded project
+-   [OpenAIRE: a pillar for Open Science in the EU: a Horizon 2020 GRACIOUS Webinar](https://doi.org/10.5281/zenodo.2248862)
+-   [Ten simple rules for machine-actionable data management plans (preprint)](https://doi.org/10.5281/zenodo.1172672) by OpenAIRE
+-   [The (GA4GH) Data Use Ontology (DUO)](https://github.com/EBISPOT/DUO)
+-   Science Europe: [Practical Guide to the International Alignment of Research Data Management](https://www.scienceeurope.org/wp-content/uploads/2018/12/SE_RDM_Practical_Guide_Final.pdf)
+-   [“Data management” in ELIXIR TeSS](https://tess.elixir-europe.org/search?q=%22data+management%22#materials)
+
+A recent paper looked into the effect of RDM in research, which is worth reading too [[19](#user-content-ref19)]. They report three “key takeaways: (1) Most PIs practice internal data management in order to prevent data loss, to facilitate sharing within the research team, and to seamlessly continue their research during personnel turnover; (2) PIs still have room to grow in understanding specialized concepts such as metadata and policies for use and reuse; (3) PIs may need guidance on practices that facilitate FAIR data, such as using metadata standards, assigning licenses to their data, and publishing in data repositories.” These provide clear guidance of mistakes not to make yourself.
 
 **Our DMP**  
 The previous sections already outlined the context of our DMP. The vision of <project/> is to create a commons of knowledge about nanosafety. The stated mission is to provide FAIR and open access to research data.  One step towards this is provision of advice and support to Users to best practice in development and implementation of DMPs, through provision of the <project/> DMP as a model for other NSC and beyond projects on how to manage their data to be FAIR, and also to provide instructions on how best to link their data into the <project/> (or other relevant) infrastructure.  This appendix thus helps Users and the wider nanosafety community to:  
@@ -765,6 +778,7 @@ July 2018]; Available from: https://creativecommons.org/share-your-work/licensin
 stewardship. Scientific Data, 2016. 3: p. 160018.
 12. <a name="ref12" />Joint Research Centre, E.C. JRC NANOMATERIALS REPOSITORY: List of Representative
 Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc/sites/jrcsh/files/JRC%20Nanomaterials%20Repository-List%20of%20Representative%20Nanomaterials-201606.pdf
+12b. <a name="ref12b" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
 13. <a name="ref13" />Hastings, J., et al., eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment. Journal of Biomedical Semantics, 2015. 6(1): p. 10.
 14. <a name="ref14" />Jeliazkova, N., et al., Deliverable Report D3.4: ISA-Tab templates for selected set of common bioassays, in eNanoMapper, B. Hardy, Editor. November 2016.
 15. <a name="ref15" />Totaro, S., H. Crutzen, and J. Riego Sintes, Data logging templates for the environmental, health and safety assessment of nanomaterials. EU Science Hub, 2017.
@@ -772,6 +786,7 @@ Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc
 17. <a name="ref17" />Schiermeier, Q., Data management made simple. Nature, 2018. 555(7696): p. 403.
 18. <a name="ref18" />Borghi, J.A., et al., Support Your Data: A Research Data Management Guide for Researchers.
 Research Ideas and Outcomes, 2018. 4.
+19. <a name="ref19" />Mannheimer, S. Toward a Better Data Management Plan: The Impact of DMPs on Grant Funded Research Practices. Journal of eScience Librarianship. 2018. 7(3).
 
 
 
