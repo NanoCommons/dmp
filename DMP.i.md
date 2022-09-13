@@ -227,6 +227,27 @@ the plan is stored and updated online using the recommended DMP tool
 The [Data Stewardship Wizard](https://ds-wizard.org/) is another tool to support
 data management planning.
 
+#### Example: Archive and get a free DOI
+
+NanoCommons as well as other EU NanoSafety Cluster project have been archiving
+openly-licensed datasets, making the released data available for a longer time.
+For example, [Zenodo](https://zenodo.org/) and [Figshare](https://figshare.com/)
+guarantee 20 years of availability of the data. They also give data a Digital
+Object Identifier (DOI) making data citations easier. Of these two, Zenodo
+has the advantage for H2020 projects to have integration with the
+[CORDIS](https://cordis.europa.eu/)
+database, and research output can be directly linked to the grant.
+
+NanoCommons has been collecting openly, citable data output from the cluster
+and made this available on a dedicate webpage at [nanocommons.github.io/datasets/](https://nanocommons.github.io/datasets/) (see Figure 2)
+and embedded [Bioschemas annotation](https://bioschemas.org/profiles/Dataset/1.0-RELEASE), allowing search engines to discover the
+data sets, including the [Google Dataset Search](https://datasetsearch.research.google.com/).
+
+![](media/ncData.png)
+**Figure 2**. Screenshot of the NanoCommons overview of openly-licensed
+data sets produced, collected, or created by EU NanoSafety Cluster projects.
+
+
 ### The <project/> Research Data Management Plan  
 <a name="dmp"></a>
 The Data Management Plan (DMP) is essential to ensure the capture of 
