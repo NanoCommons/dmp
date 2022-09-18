@@ -552,6 +552,11 @@ identifier can be used to identify nanomaterials in datasets as IRI but also as 
 the caLIBRATE project has registered the erm:ERM00000074 identifier, using the 'erm' prefix in this CURIE/Compact Identifier notation, but has the
 full IRI [https://nanocommons.github.io/identifiers/registry#ERM00000074](https://nanocommons.github.io/identifiers/registry#ERM00000074).
 
+##### 2.1.3 The InChI for Nano
+Another identifier was explored, based on the IUPAC International Chemical Identifier (InChI) [[22](#user-content-ref22)]. Once fully developed,
+the nano InChI can be used as a global, unique identifier. Currently, this is not advised yet. An InChI Trust working group has been set up for
+the further development (see [inchi-trust.org/Nanomaterials/](https://www.inchi-trust.org/Nanomaterials/)).
+
 
 ### 2.2 Making data openly accessible 
 <a name="making_data_openly_accessible"></a>
@@ -827,6 +832,7 @@ Research Ideas and Outcomes, 2018. 4.
 19. <a name="ref19" />Mannheimer, S. Toward a Better Data Management Plan: The Impact of DMPs on Grant Funded Research Practices. Journal of eScience Librarianship. 2018. 7(3).
 20. <a name="ref20" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
 21. <a name="ref21" />Van Rijn, J., et al., European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. Journal of Cheminformatics, 2022. 14:57.
+22. <a name="ref22" />Lynch, I., et al., Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomateirals, 2020. 10(12):2493.
 
 
 
