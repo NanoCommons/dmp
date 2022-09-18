@@ -227,8 +227,6 @@ the plan is stored and updated online using the recommended DMP tool
 The [Data Stewardship Wizard](https://ds-wizard.org/) is another tool to support
 data management planning.
 
-<ul>
-
 #### Example: Archive and get a free DOI
 
 NanoCommons as well as other EU NanoSafety Cluster project have been archiving
@@ -248,8 +246,6 @@ data sets, including the [Google Dataset Search](https://datasetsearch.research.
 ![](media/ncData.png)
 **Figure 2**. Screenshot of the NanoCommons overview of openly-licensed
 data sets produced, collected, or created by EU NanoSafety Cluster projects.
-
-</ul>
 
 
 ### The <project/> Research Data Management Plan  
