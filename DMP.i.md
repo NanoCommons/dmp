@@ -537,7 +537,8 @@ Of particular importance are the use of identifiers here. As many aspects of the
 Similar to the idea of pre-registration of clinical trials, each project should disseminate the identifiers they have chosen to represent the nanomaterials selected to be tested or used in that project. These identifiers must be publicly announced as soon as a material is selected, widely distributed within the project, disseminated to other projects, and consistently used in all reporting, experimental protocols, results, metadata, etc.
 
 To support this, the [European Registry of Materials](https://github.com/NanoCommons/identifiers)
-was started where anonymous identifiers can be registered. These are then reserved and can be used
+was started where anonymous identifiers can be registered, called an ERM identifier [[21](#user-content-ref21)].
+These are then reserved and can be used
 in all (internal and external) documentation (experimental designs, spreadsheets, reports,
 deliverables, articles, etc), e.g. as Compact Identifiers (see Section 2.1.2.2). Registration of
 an new identifiers requires only a minimal amount of information: a name for the material, e.g.
@@ -546,7 +547,10 @@ batch and/or lot number, an ontological classification, a webpage, a provider, c
 project name.
 
 ##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination
-To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[20](#user-content-ref20)].
+To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[20](#user-content-ref20)]. The ERM identifier
+identifier can be used to identify nanomaterials in datasets as IRI but also as Compact Identifier or CURIE in written material. For example,
+the caLIBRATE project has registered the erm:ERM00000074 identifier, using the 'erm' prefix in this CURIE/Compact Identifier notation, but has the
+full IRI [https://nanocommons.github.io/identifiers/registry#ERM00000074](https://nanocommons.github.io/identifiers/registry#ERM00000074).
 
 
 ### 2.2 Making data openly accessible 
@@ -822,6 +826,7 @@ Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc
 Research Ideas and Outcomes, 2018. 4.
 19. <a name="ref19" />Mannheimer, S. Toward a Better Data Management Plan: The Impact of DMPs on Grant Funded Research Practices. Journal of eScience Librarianship. 2018. 7(3).
 20. <a name="ref20" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
+21. <a name="ref21" />Van Rijn, J., et al., European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. Journal of Cheminformatics, 2022. 14:57.
 
 
 
