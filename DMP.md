@@ -537,7 +537,8 @@ Of particular importance are the use of identifiers here. As many aspects of the
 Similar to the idea of pre-registration of clinical trials, each project should disseminate the identifiers they have chosen to represent the nanomaterials selected to be tested or used in that project. These identifiers must be publicly announced as soon as a material is selected, widely distributed within the project, disseminated to other projects, and consistently used in all reporting, experimental protocols, results, metadata, etc.
 
 To support this, the [European Registry of Materials](https://github.com/NanoCommons/identifiers)
-was started where anonymous identifiers can be registered. These are then reserved and can be used
+was started where anonymous identifiers can be registered, called an ERM identifier [[21](#user-content-ref21)].
+These are then reserved and can be used
 in all (internal and external) documentation (experimental designs, spreadsheets, reports,
 deliverables, articles, etc), e.g. as Compact Identifiers (see Section 2.1.2.2). Registration of
 an new identifiers requires only a minimal amount of information: a name for the material, e.g.
@@ -546,7 +547,15 @@ batch and/or lot number, an ontological classification, a webpage, a provider, c
 project name.
 
 ##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination
-To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[12b](#user-content-ref12b)].
+To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[20](#user-content-ref20)]. The ERM identifier
+identifier can be used to identify nanomaterials in datasets as IRI but also as Compact Identifier or CURIE in written material. For example,
+the caLIBRATE project has registered the erm:ERM00000074 identifier, using the 'erm' prefix in this CURIE/Compact Identifier notation, but has the
+full IRI [https://nanocommons.github.io/identifiers/registry#ERM00000074](https://nanocommons.github.io/identifiers/registry#ERM00000074).
+
+##### 2.1.3 The InChI for Nano
+Another identifier was explored, based on the IUPAC International Chemical Identifier (InChI) [[22](#user-content-ref22)]. Once fully developed,
+the nano InChI can be used as a global, unique identifier. Currently, this is not advised yet. An InChI Trust working group has been set up for
+the further development (see [inchi-trust.org/Nanomaterials/](https://www.inchi-trust.org/Nanomaterials/)).
 
 
 ### 2.2 Making data openly accessible 
@@ -813,7 +822,6 @@ July 2018]; Available from: https://creativecommons.org/share-your-work/licensin
 stewardship. Scientific Data, 2016. 3: p. 160018.
 12. <a name="ref12" />Joint Research Centre, E.C. JRC NANOMATERIALS REPOSITORY: List of Representative
 Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc/sites/jrcsh/files/JRC%20Nanomaterials%20Repository-List%20of%20Representative%20Nanomaterials-201606.pdf
-12b. <a name="ref12b" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
 13. <a name="ref13" />Hastings, J., et al., eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment. Journal of Biomedical Semantics, 2015. 6(1): p. 10.
 14. <a name="ref14" />Jeliazkova, N., et al., Deliverable Report D3.4: ISA-Tab templates for selected set of common bioassays, in eNanoMapper, B. Hardy, Editor. November 2016.
 15. <a name="ref15" />Totaro, S., H. Crutzen, and J. Riego Sintes, Data logging templates for the environmental, health and safety assessment of nanomaterials. EU Science Hub, 2017.
@@ -822,6 +830,9 @@ Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc
 18. <a name="ref18" />Borghi, J.A., et al., Support Your Data: A Research Data Management Guide for Researchers.
 Research Ideas and Outcomes, 2018. 4.
 19. <a name="ref19" />Mannheimer, S. Toward a Better Data Management Plan: The Impact of DMPs on Grant Funded Research Practices. Journal of eScience Librarianship. 2018. 7(3).
+20. <a name="ref20" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
+21. <a name="ref21" />Van Rijn, J., et al., European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. Journal of Cheminformatics, 2022. 14:57.
+22. <a name="ref22" />Lynch, I., et al., Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomateirals, 2020. 10(12):2493.
 
 
 
