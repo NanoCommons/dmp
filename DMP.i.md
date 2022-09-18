@@ -546,7 +546,7 @@ batch and/or lot number, an ontological classification, a webpage, a provider, c
 project name.
 
 ##### 2.1.2.2 Use IRIs or Compact Identifiers in dissemination
-To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[12b](#user-content-ref12b)].
+To ensure clear and explicit semantics, when using identifiers in dissemination, either full identifiers should be used, such as Internationalized Resource Identifiers (IRIs) or, alternatively, Compact Identifiers [[20](#user-content-ref20)].
 
 
 ### 2.2 Making data openly accessible 
@@ -813,7 +813,6 @@ July 2018]; Available from: https://creativecommons.org/share-your-work/licensin
 stewardship. Scientific Data, 2016. 3: p. 160018.
 12. <a name="ref12" />Joint Research Centre, E.C. JRC NANOMATERIALS REPOSITORY: List of Representative
 Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc/sites/jrcsh/files/JRC%20Nanomaterials%20Repository-List%20of%20Representative%20Nanomaterials-201606.pdf
-12b. <a name="ref12b" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
 13. <a name="ref13" />Hastings, J., et al., eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment. Journal of Biomedical Semantics, 2015. 6(1): p. 10.
 14. <a name="ref14" />Jeliazkova, N., et al., Deliverable Report D3.4: ISA-Tab templates for selected set of common bioassays, in eNanoMapper, B. Hardy, Editor. November 2016.
 15. <a name="ref15" />Totaro, S., H. Crutzen, and J. Riego Sintes, Data logging templates for the environmental, health and safety assessment of nanomaterials. EU Science Hub, 2017.
@@ -822,6 +821,7 @@ Nanomaterials. June 2016 20 July 2018]; Available from: https://ec.europa.eu/jrc
 18. <a name="ref18" />Borghi, J.A., et al., Support Your Data: A Research Data Management Guide for Researchers.
 Research Ideas and Outcomes, 2018. 4.
 19. <a name="ref19" />Mannheimer, S. Toward a Better Data Management Plan: The Impact of DMPs on Grant Funded Research Practices. Journal of eScience Librarianship. 2018. 7(3).
+20. <a name="ref20" />Wimalaratne, S.M., et al., Uniform resolution of compact identifiers for biomedical data. Scientific Data, 2018. 5:180029.
 
 
 
